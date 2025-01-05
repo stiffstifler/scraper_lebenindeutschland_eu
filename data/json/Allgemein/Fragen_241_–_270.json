@@ -1,0 +1,392 @@
+{
+    "Frage №241": {
+        "question": "Frau Seger bekommt ein Kind. Was muss sie tun, um Elterngeld zu erhalten?",
+        "image": null,
+        "options": {
+            "A": "Sie muss an ihre Krankenkasse schreiben.",
+            "B": "Sie muss nichts tun, denn sie bekommt automatisch Elterngeld.",
+            "C": "Sie muss einen Antrag bei der Elterngeldstelle stellen.",
+            "D": "Sie muss das Arbeitsamt um Erlaubnis bitten."
+        },
+        "correct_answer": {
+            "C": "Sie muss einen Antrag bei der Elterngeldstelle stellen."
+        }
+    },
+    "Frage №242": {
+        "question": "Wer entscheidet, ob ein Kind in Deutschland in den Kindergarten geht?",
+        "image": null,
+        "options": {
+            "A": "der Staat",
+            "B": "die Bundesländer",
+            "C": "die Eltern / die Erziehungsberechtigten",
+            "D": "die Schulen"
+        },
+        "correct_answer": {
+            "C": "die Eltern / die Erziehungsberechtigten"
+        }
+    },
+    "Frage №243": {
+        "question": "Maik und Sybille wollen mit Freunden an ihrem deutschen Wohnort eine Demonstration auf der Straße abhalten. Was müssen sie vorher tun?",
+        "image": null,
+        "options": {
+            "A": "Sie müssen nichts tun. Man darf in Deutschland jederzeit überall demonstrieren.",
+            "B": "Sie müssen die Demonstration anmelden.",
+            "C": "Sie können gar nichts tun, denn Demonstrationen sind in Deutschland grundsätzlich verboten.",
+            "D": "Maik und Sybille müssen einen neuen Verein gründen, weil nur Vereine demonstrieren dürfen."
+        },
+        "correct_answer": {
+            "B": "Sie müssen die Demonstration anmelden."
+        }
+    },
+    "Frage №244": {
+        "question": "Welchen Schulabschluss braucht man normalerweise, um an einer Universität in Deutschland ein Studium zu beginnen?",
+        "image": null,
+        "options": {
+            "A": "das Abitur",
+            "B": "ein Diplom",
+            "C": "die Prokura",
+            "D": "eine Gesellenprüfung"
+        },
+        "correct_answer": {
+            "A": "das Abitur"
+        }
+    },
+    "Frage №245": {
+        "question": "Wer darf in Deutschland nicht als Paar zusammenleben?",
+        "image": null,
+        "options": {
+            "A": "Hans (20 Jahre) und Marie (19 Jahre)",
+            "B": "Tom (20 Jahre) und Klaus (45 Jahre)",
+            "C": "Sofie (35 Jahre) und Lisa (40 Jahre)",
+            "D": "Anne (13 Jahre) und Tim (25 Jahre)"
+        },
+        "correct_answer": {
+            "D": "Anne (13 Jahre) und Tim (25 Jahre)"
+        }
+    },
+    "Frage №246": {
+        "question": "Ab welchem Alter ist man in Deutschland volljährig?",
+        "image": null,
+        "options": {
+            "A": "16",
+            "B": "18",
+            "C": "19",
+            "D": "21"
+        },
+        "correct_answer": {
+            "B": "18"
+        }
+    },
+    "Frage №247": {
+        "question": "Eine Frau ist schwanger. Sie ist kurz vor und nach der Geburt ihres Kindes vom Gesetz besonders beschützt. Wie heißt dieser Schutz?",
+        "image": null,
+        "options": {
+            "A": "Elternzeit",
+            "B": "Geburtsvorbereitung",
+            "C": "Mutterschutz",
+            "D": "Wochenbett"
+        },
+        "correct_answer": {
+            "C": "Mutterschutz"
+        }
+    },
+    "Frage №248": {
+        "question": "Die Erziehung der Kinder ist in Deutschland vor allem Aufgabe …",
+        "image": null,
+        "options": {
+            "A": "des Staates.",
+            "B": "der Eltern.",
+            "C": "der Großeltern.",
+            "D": "der Schulen."
+        },
+        "correct_answer": {
+            "B": "der Eltern."
+        }
+    },
+    "Frage №249": {
+        "question": "Wer ist in Deutschland hauptsächlich verantwortlich für die Kindererziehung?",
+        "image": null,
+        "options": {
+            "A": "der Staat",
+            "B": "die Eltern",
+            "C": "die Verwandten",
+            "D": "die Schulen"
+        },
+        "correct_answer": {
+            "B": "die Eltern"
+        }
+    },
+    "Frage №250": {
+        "question": "In Deutschland hat man die besten Chancen auf einen gut bezahlten Arbeitsplatz, wenn man …",
+        "image": null,
+        "options": {
+            "A": "katholisch ist.",
+            "B": "gut ausgebildet ist.",
+            "C": "eine Frau ist.",
+            "D": "Mitglied einer Partei ist."
+        },
+        "correct_answer": {
+            "B": "gut ausgebildet ist."
+        }
+    },
+    "Frage №251": {
+        "question": "Wenn man in Deutschland ein Kind schlägt, …",
+        "image": null,
+        "options": {
+            "A": "geht das niemanden etwas an.",
+            "B": "geht das nur die Familie etwas an.",
+            "C": "kann man dafür nicht bestraft werden.",
+            "D": "kann man dafür bestraft werden."
+        },
+        "correct_answer": {
+            "D": "kann man dafür bestraft werden."
+        }
+    },
+    "Frage №252": {
+        "question": "In Deutschland …",
+        "image": null,
+        "options": {
+            "A": "darf man zur gleichen Zeit nur mit einem Partner / einer Partnerin verheiratet sein.",
+            "B": "kann man mehrere Ehepartner / Ehepartnerinnen gleichzeitig haben.",
+            "C": "darf man nicht wieder heiraten, wenn man einmal verheiratet war.",
+            "D": "darf eine Frau nicht wieder heiraten, wenn ihr Mann gestorben ist."
+        },
+        "correct_answer": {
+            "A": "darf man zur gleichen Zeit nur mit einem Partner / einer Partnerin verheiratet sein."
+        }
+    },
+    "Frage №253": {
+        "question": "Wo müssen Sie sich anmelden, wenn Sie in Deutschland umziehen?",
+        "image": null,
+        "options": {
+            "A": "beim Einwohnermeldeamt",
+            "B": "beim Standesamt",
+            "C": "beim Ordnungsamt",
+            "D": "beim Gewerbeamt"
+        },
+        "correct_answer": {
+            "A": "beim Einwohnermeldeamt"
+        }
+    },
+    "Frage №254": {
+        "question": "In Deutschland dürfen Ehepaare sich scheiden lassen. Meistens müssen sie dazu das „Trennungsjahr“ einhalten. Was bedeutet das?",
+        "image": null,
+        "options": {
+            "A": "Der Scheidungsprozess dauert ein Jahr.",
+            "B": "Mann und Frau sind ein Jahr verheiratet, dann ist die Scheidung möglich.",
+            "C": "Das Besuchsrecht für die Kinder gilt ein Jahr.",
+            "D": "Mann und Frau führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich."
+        },
+        "correct_answer": {
+            "D": "Mann und Frau führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich."
+        }
+    },
+    "Frage №255": {
+        "question": "Bei Erziehungsproblemen können Eltern in Deutschland Hilfe erhalten vom …",
+        "image": null,
+        "options": {
+            "A": "Ordnungsamt.",
+            "B": "Schulamt.",
+            "C": "Jugendamt.",
+            "D": "Gesundheitsamt."
+        },
+        "correct_answer": {
+            "C": "Jugendamt."
+        }
+    },
+    "Frage №256": {
+        "question": "Ein Ehepaar möchte in Deutschland ein Restaurant eröffnen. Was braucht es dazu unbedingt?",
+        "image": null,
+        "options": {
+            "A": "eine Erlaubnis der Polizei",
+            "B": "eine Genehmigung einer Partei",
+            "C": "eine Genehmigung des Einwohnermeldeamts",
+            "D": "eine Gaststättenerlaubnis von der zuständigen Behörde"
+        },
+        "correct_answer": {
+            "D": "eine Gaststättenerlaubnis von der zuständigen Behörde"
+        }
+    },
+    "Frage №257": {
+        "question": "Eine erwachsene Frau möchte in Deutschland das Abitur nachholen. Das kann sie an …",
+        "image": null,
+        "options": {
+            "A": "einer Hochschule.",
+            "B": "einem Abendgymnasium.",
+            "C": "einer Hauptschule.",
+            "D": "einer Privatuniversität."
+        },
+        "correct_answer": {
+            "B": "einem Abendgymnasium."
+        }
+    },
+    "Frage №258": {
+        "question": "Was darf das Jugendamt in Deutschland?",
+        "image": null,
+        "options": {
+            "A": "Es entscheidet, welche Schule das Kind besucht.",
+            "B": "Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.",
+            "C": "Es bezahlt das Kindergeld an die Eltern.",
+            "D": "Es kontrolliert, ob das Kind einen Kindergarten besucht."
+        },
+        "correct_answer": {
+            "B": "Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen."
+        }
+    },
+    "Frage №259": {
+        "question": "Das Berufsinformationszentrum BIZ bei der Bundesagentur für Arbeit in Deutschland hilft bei der …",
+        "image": null,
+        "options": {
+            "A": "Rentenberechnung.",
+            "B": "Lehrstellensuche.",
+            "C": "Steuererklärung.",
+            "D": "Krankenversicherung."
+        },
+        "correct_answer": {
+            "B": "Lehrstellensuche."
+        }
+    },
+    "Frage №260": {
+        "question": "In Deutschland hat ein Kind in der Schule …",
+        "image": null,
+        "options": {
+            "A": "Recht auf unbegrenzte Freizeit.",
+            "B": "Wahlfreiheit für alle Fächer.",
+            "C": "Anspruch auf Schulgeld.",
+            "D": "Anwesenheitspflicht."
+        },
+        "correct_answer": {
+            "D": "Anwesenheitspflicht."
+        }
+    },
+    "Frage №261": {
+        "question": "Ein Mann möchte mit 30 Jahren in Deutschland sein Abitur nachholen. Wo kann er das tun? An …",
+        "image": null,
+        "options": {
+            "A": "einer Hochschule",
+            "B": "einem Abendgymnasium",
+            "C": "einer Hauptschule",
+            "D": "einer Privatuniversität"
+        },
+        "correct_answer": {
+            "B": "einem Abendgymnasium"
+        }
+    },
+    "Frage №262": {
+        "question": "Was bedeutet in Deutschland der Grundsatz der Gleichbehandlung?",
+        "image": null,
+        "options": {
+            "A": "Niemand darf z.B. wegen einer Behinderung benachteiligt werden.",
+            "B": "Man darf andere Personen benachteiligen, wenn ausreichende persönliche Gründe hierfür vorliegen.",
+            "C": "Niemand darf gegen Personen klagen, wenn sie benachteiligt wurden.",
+            "D": "Es ist für alle Gesetz, benachteiligten Gruppen jährlich Geld zu spenden."
+        },
+        "correct_answer": {
+            "A": "Niemand darf z.B. wegen einer Behinderung benachteiligt werden."
+        }
+    },
+    "Frage №263": {
+        "question": "In Deutschland sind Jugendliche ab 14 Jahren strafmündig. Das bedeutet: Jugendliche, die 14 Jahre und älter sind und gegen Strafgesetze verstoßen, …",
+        "image": null,
+        "options": {
+            "A": "werden bestraft.",
+            "B": "werden wie Erwachsene behandelt.",
+            "C": "teilen die Strafe mit ihren Eltern.",
+            "D": "werden nicht bestraft."
+        },
+        "correct_answer": {
+            "A": "werden bestraft."
+        }
+    },
+    "Frage №264": {
+        "question": "Zu welchem Fest tragen Menschen in Deutschland bunte Kostüme und Masken?",
+        "image": null,
+        "options": {
+            "A": "am Rosenmontag",
+            "B": "am Maifeiertag",
+            "C": "beim Oktoberfest",
+            "D": "an Pfingsten"
+        },
+        "correct_answer": {
+            "A": "am Rosenmontag"
+        }
+    },
+    "Frage №265": {
+        "question": "Wohin muss man in Deutschland zuerst gehen, wenn man heiraten möchte?",
+        "image": null,
+        "options": {
+            "A": "zum Einwohnermeldeamt",
+            "B": "zum Ordnungsamt",
+            "C": "zur Agentur für Arbeit",
+            "D": "zum Standesamt"
+        },
+        "correct_answer": {
+            "D": "zum Standesamt"
+        }
+    },
+    "Frage №266": {
+        "question": "Wann beginnt die gesetzliche Nachtruhe in Deutschland?",
+        "image": null,
+        "options": {
+            "A": "wenn die Sonne untergeht",
+            "B": "um 22 Uhr",
+            "C": "wenn die Nachbarn schlafen gehen",
+            "D": "um 0 Uhr, Mitternacht"
+        },
+        "correct_answer": {
+            "B": "um 22 Uhr"
+        }
+    },
+    "Frage №267": {
+        "question": "Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund zusammen. Die Eltern der Frau finden das nicht gut, weil ihnen der Freund nicht gefällt. Was können die Eltern tun?",
+        "image": null,
+        "options": {
+            "A": "Sie müssen die Entscheidung der volljährigen Tochter respektieren.",
+            "B": "Sie haben das Recht, die Tochter in die elterliche Wohnung zurückzuholen.",
+            "C": "Sie können zur Polizei gehen und die Tochter anzeigen.",
+            "D": "Sie suchen einen anderen Mann für die Tochter."
+        },
+        "correct_answer": {
+            "A": "Sie müssen die Entscheidung der volljährigen Tochter respektieren."
+        }
+    },
+    "Frage №268": {
+        "question": "Eine junge Frau will den Führerschein machen. Sie hat Angst vor der Prüfung, weil ihre Muttersprache nicht Deutsch ist. Was ist richtig?",
+        "image": null,
+        "options": {
+            "A": "Sie muss mindestens zehn Jahre in Deutschland leben, bevor sie den Führerschein machen kann.",
+            "B": "Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl.",
+            "C": "Wenn sie kein Deutsch kann, darf sie keinen Führerschein haben.",
+            "D": "Sie muss den Führerschein in dem Land machen, in dem man ihre Sprache spricht."
+        },
+        "correct_answer": {
+            "B": "Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl."
+        }
+    },
+    "Frage №269": {
+        "question": "In Deutschland haben Kinder ab dem Alter von drei Jahren bis zur Ersteinschulung einen Anspruch auf …",
+        "image": null,
+        "options": {
+            "A": "monatliches Taschengeld.",
+            "B": "einen Kindergartenplatz.",
+            "C": "einen Platz in einem Sportverein.",
+            "D": "einen Ferienpass."
+        },
+        "correct_answer": {
+            "B": "einen Kindergartenplatz."
+        }
+    },
+    "Frage №270": {
+        "question": "Die Volkshochschule in Deutschland ist eine Einrichtung …",
+        "image": null,
+        "options": {
+            "A": "für den Religionsunterricht.",
+            "B": "nur für Jugendliche.",
+            "C": "zur Weiterbildung.",
+            "D": "nur für Rentner und Rentnerinnen."
+        },
+        "correct_answer": {
+            "C": "zur Weiterbildung."
+        }
+    }
+}

@@ -1,0 +1,392 @@
+{
+    "Frage №271": {
+        "question": "Was ist in Deutschland ein Brauch zu Weihnachten?",
+        "image": null,
+        "options": {
+            "A": "bunte Eier verstecken",
+            "B": "einen Tannenbaum schmücken",
+            "C": "sich mit Masken und Kostümen verkleiden",
+            "D": "Kürbisse vor die Tür stellen"
+        },
+        "correct_answer": {
+            "B": "einen Tannenbaum schmücken"
+        }
+    },
+    "Frage №272": {
+        "question": "Welche Lebensform ist in Deutschland nicht erlaubt?",
+        "image": null,
+        "options": {
+            "A": "Mann und Frau sind geschieden und leben mit neuen Partnern zusammen.",
+            "B": "Zwei Frauen leben zusammen.",
+            "C": "Ein alleinerziehender Vater lebt mit seinen zwei Kindern zusammen.",
+            "D": "Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet."
+        },
+        "correct_answer": {
+            "D": "Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet."
+        }
+    },
+    "Frage №273": {
+        "question": "Bei Erziehungsproblemen gehen Sie in Deutschland …",
+        "image": null,
+        "options": {
+            "A": "zum Arzt / zur Ärztin.",
+            "B": "zum Gesundheitsamt.",
+            "C": "zum Einwohnermeldeamt.",
+            "D": "zum Jugendamt."
+        },
+        "correct_answer": {
+            "D": "zum Jugendamt."
+        }
+    },
+    "Frage №274": {
+        "question": "Sie haben in Deutschland absichtlich einen Brief geöffnet, der an eine andere Person adressiert ist. Was haben Sie nicht beachtet?",
+        "image": null,
+        "options": {
+            "A": "das Schweigerecht",
+            "B": "das Briefgeheimnis",
+            "C": "die Schweigepflicht",
+            "D": "die Meinungsfreiheit"
+        },
+        "correct_answer": {
+            "B": "das Briefgeheimnis"
+        }
+    },
+    "Frage №275": {
+        "question": "Was braucht man in Deutschland für eine Ehescheidung?",
+        "image": null,
+        "options": {
+            "A": "die Einwilligung der Eltern",
+            "B": "ein Attest eines Arztes / einer Ärztin",
+            "C": "die Einwilligung der Kinder",
+            "D": "die Unterstützung eines Anwalts / einer Anwältin"
+        },
+        "correct_answer": {
+            "D": "die Unterstützung eines Anwalts / einer Anwältin"
+        }
+    },
+    "Frage №276": {
+        "question": "Was sollten Sie tun, wenn Sie von Ihrem Ansprechpartner / Ihrer Ansprechpartnerin in einer deutschen Behörde schlecht behandelt werden?",
+        "image": null,
+        "options": {
+            "A": "Ich kann nichts tun.",
+            "B": "Ich muss mir diese Behandlung gefallen lassen.",
+            "C": "Ich drohe der Person.",
+            "D": "Ich kann mich beim Behördenleiter / bei der Behördenleiterin beschweren."
+        },
+        "correct_answer": {
+            "D": "Ich kann mich beim Behördenleiter / bei der Behördenleiterin beschweren."
+        }
+    },
+    "Frage №277": {
+        "question": "Eine Frau, die ein zweijähriges Kind hat, bewirbt sich in Deutschland um eine Stelle. Was ist ein Beispiel für Diskriminierung? Sie bekommt die Stelle nur deshalb nicht, weil sie …",
+        "image": null,
+        "options": {
+            "A": "kein Englisch spricht.",
+            "B": "zu hohe Gehaltsvorstellungen hat.",
+            "C": "keine Erfahrungen in diesem Beruf hat.",
+            "D": "Mutter ist."
+        },
+        "correct_answer": {
+            "D": "Mutter ist."
+        }
+    },
+    "Frage №278": {
+        "question": "Ein Mann im Rollstuhl hat sich auf eine Stelle als Buchhalter beworben. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil er …",
+        "image": null,
+        "options": {
+            "A": "im Rollstuhl sitzt.",
+            "B": "keine Erfahrung hat.",
+            "C": "zu hohe Gehaltsvorstellungen hat.",
+            "D": "kein Englisch spricht."
+        },
+        "correct_answer": {
+            "A": "im Rollstuhl sitzt."
+        }
+    },
+    "Frage №279": {
+        "question": "In den meisten Mietshäusern in Deutschland gibt es eine „Hausordnung“. Was steht in einer solchen „Hausordnung“? Sie nennt …",
+        "image": null,
+        "options": {
+            "A": "Regeln für die Benutzung öffentlicher Verkehrsmittel.",
+            "B": "alle Mieter und Mieterinnen im Haus.",
+            "C": "Regeln, an die sich alle Bewohner und Bewohnerinnen halten müssen.",
+            "D": "die Adresse des nächsten Ordnungsamtes."
+        },
+        "correct_answer": {
+            "C": "Regeln, an die sich alle Bewohner und Bewohnerinnen halten müssen."
+        }
+    },
+    "Frage №280": {
+        "question": "Wenn Sie sich in Deutschland gegen einen falschen Steuerbescheid wehren wollen, müssen Sie …",
+        "image": null,
+        "options": {
+            "A": "nichts machen.",
+            "B": "den Bescheid wegwerfen.",
+            "C": "Einspruch einlegen.",
+            "D": "warten, bis ein anderer Bescheid kommt."
+        },
+        "correct_answer": {
+            "C": "Einspruch einlegen."
+        }
+    },
+    "Frage №281": {
+        "question": "Zwei Freunde wollen in ein öffentliches Schwimmbad in Deutschland. Beide haben eine dunkle Hautfarbe und werden deshalb nicht hineingelassen. Welches Recht wird in dieser Situation verletzt? Das Recht auf …",
+        "image": null,
+        "options": {
+            "A": "Meinungsfreiheit",
+            "B": "Gleichbehandlung",
+            "C": "Versammlungsfreiheit",
+            "D": "Freizügigkeit"
+        },
+        "correct_answer": {
+            "B": "Gleichbehandlung"
+        }
+    },
+    "Frage №282": {
+        "question": "Welches Ehrenamt müssen deutsche Staatsbürger / Staatsbürgerinnen übernehmen, wenn sie dazu aufgefordert werden?",
+        "image": null,
+        "options": {
+            "A": "Vereinstrainer / Vereinstrainerin",
+            "B": "Bibliotheksaufsicht",
+            "C": "Wahlhelfer / Wahlhelferin",
+            "D": "Lehrer / Lehrerin"
+        },
+        "correct_answer": {
+            "C": "Wahlhelfer / Wahlhelferin"
+        }
+    },
+    "Frage №283": {
+        "question": "Was tun Sie, wenn Sie eine falsche Rechnung von einer deutschen Behörde bekommen?",
+        "image": null,
+        "options": {
+            "A": "Ich lasse die Rechnung liegen.",
+            "B": "Ich lege Widerspruch bei der Behörde ein.",
+            "C": "Ich schicke die Rechnung an die Behörde zurück.",
+            "D": "Ich gehe mit der Rechnung zum Finanzamt."
+        },
+        "correct_answer": {
+            "B": "Ich lege Widerspruch bei der Behörde ein."
+        }
+    },
+    "Frage №284": {
+        "question": "Was man für die Arbeit können muss, ändert sich in der Zukunft sehr schnell. Was kann man tun?",
+        "image": null,
+        "options": {
+            "A": "Es ist egal, was man lernt.",
+            "B": "Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der Schule muss man nicht weiter lernen.",
+            "C": "Erwachsene müssen auch nach der Ausbildung immer weiter lernen.",
+            "D": "Alle müssen früher aufhören zu arbeiten, weil sich alles ändert."
+        },
+        "correct_answer": {
+            "C": "Erwachsene müssen auch nach der Ausbildung immer weiter lernen."
+        }
+    },
+    "Frage №285": {
+        "question": "Frau Frost arbeitet als fest angestellte Mitarbeiterin in einem Büro. Was muss sie nicht von ihrem Gehalt bezahlen?",
+        "image": null,
+        "options": {
+            "A": "Umsatzsteuer",
+            "B": "Lohnsteuer",
+            "C": "Beiträge zur Arbeitslosenversicherung",
+            "D": "Beiträge zur Renten- und Krankenversicherung"
+        },
+        "correct_answer": {
+            "A": "Umsatzsteuer"
+        }
+    },
+    "Frage №286": {
+        "question": "Welche Organisation in einer Firma hilft den Arbeitnehmern und Arbeitnehmerinnen bei Problemen mit dem Arbeitgeber / der Arbeitgeberin?",
+        "image": null,
+        "options": {
+            "A": "der Betriebsrat",
+            "B": "der Betriebsprüfer / die Betriebsprüferin",
+            "C": "die Betriebsgruppe",
+            "D": "das Betriebsmanagement"
+        },
+        "correct_answer": {
+            "A": "der Betriebsrat"
+        }
+    },
+    "Frage №287": {
+        "question": "Sie möchten bei einer Firma in Deutschland Ihr Arbeitsverhältnis beenden. Was müssen Sie beachten?",
+        "image": null,
+        "options": {
+            "A": "die Gehaltszahlungen",
+            "B": "die Arbeitszeit",
+            "C": "die Kündigungsfrist",
+            "D": "die Versicherungspflicht"
+        },
+        "correct_answer": {
+            "C": "die Kündigungsfrist"
+        }
+    },
+    "Frage №288": {
+        "question": "Woraus begründet sich Deutschlands besondere Verantwortung für Israel?",
+        "image": null,
+        "options": {
+            "A": "aus der Mitgliedschaft in der Europäischen Union (EU)",
+            "B": "aus den nationalsozialistischen Verbrechen gegen Juden",
+            "C": "aus dem Grundgesetz der Bundesrepublik Deutschland",
+            "D": "aus der christlichen Tradition"
+        },
+        "correct_answer": {
+            "B": "aus den nationalsozialistischen Verbrechen gegen Juden"
+        }
+    },
+    "Frage №289": {
+        "question": "Ein Mann mit dunkler Hautfarbe bewirbt sich um eine Stelle als Kellner in einem Restaurant in Deutschland. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil …",
+        "image": null,
+        "options": {
+            "A": "seine Deutschkenntnisse zu gering sind.",
+            "B": "er zu hohe Gehaltsvorstellungen hat.",
+            "C": "er eine dunkle Haut hat.",
+            "D": "er keine Erfahrungen im Beruf hat."
+        },
+        "correct_answer": {
+            "C": "er eine dunkle Haut hat."
+        }
+    },
+    "Frage №290": {
+        "question": "Sie haben in Deutschland einen Fernseher gekauft. Zu Hause packen Sie den Fernseher aus, doch er funktioniert nicht. Der Fernseher ist kaputt. Was können Sie machen?",
+        "image": null,
+        "options": {
+            "A": "eine Anzeige schreiben",
+            "B": "den Fernseher reklamieren",
+            "C": "das Gerät ungefragt austauschen",
+            "D": "die Garantie verlängern"
+        },
+        "correct_answer": {
+            "B": "den Fernseher reklamieren"
+        }
+    },
+    "Frage №291": {
+        "question": "Warum muss man in Deutschland bei der Steuererklärung aufschreiben, ob man zu einer Kirche gehört oder nicht? Weil …",
+        "image": null,
+        "options": {
+            "A": "das für die Statistik in Deutschland wichtig ist.",
+            "B": "es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist.",
+            "C": "man mehr Steuern zahlen muss, wenn man nicht zu einer Kirche gehört.",
+            "D": "die Kirche für die Steuererklärung verantwortlich ist."
+        },
+        "correct_answer": {
+            "B": "es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist."
+        }
+    },
+    "Frage №292": {
+        "question": "Die Menschen in Deutschland leben nach dem Grundsatz der religiösen Toleranz. Was bedeutet das?",
+        "image": null,
+        "options": {
+            "A": "Es dürfen keine Moscheen gebaut werden.",
+            "B": "Alle Menschen glauben an Gott.",
+            "C": "Jeder kann glauben, was er möchte.",
+            "D": "Der Staat entscheidet, an welchen Gott die Menschen glauben."
+        },
+        "correct_answer": {
+            "C": "Jeder kann glauben, was er möchte."
+        }
+    },
+    "Frage №293": {
+        "question": "Was ist in Deutschland ein Brauch an Ostern?",
+        "image": null,
+        "options": {
+            "A": "Kürbisse vor die Tür stellen",
+            "B": "einen Tannenbaum schmücken",
+            "C": "Eier bemalen",
+            "D": "Raketen in die Luft schießen"
+        },
+        "correct_answer": {
+            "C": "Eier bemalen"
+        }
+    },
+    "Frage №294": {
+        "question": "Pfingsten ist ein …",
+        "image": null,
+        "options": {
+            "A": "christlicher Feiertag.",
+            "B": "deutscher Gedenktag.",
+            "C": "internationaler Trauertag.",
+            "D": "bayerischer Brauch."
+        },
+        "correct_answer": {
+            "A": "christlicher Feiertag."
+        }
+    },
+    "Frage №295": {
+        "question": "Welche Religion hat die europäische und deutsche Kultur geprägt?",
+        "image": null,
+        "options": {
+            "A": "der Hinduismus",
+            "B": "das Christentum",
+            "C": "der Buddhismus",
+            "D": "der Islam"
+        },
+        "correct_answer": {
+            "B": "das Christentum"
+        }
+    },
+    "Frage №296": {
+        "question": "In Deutschland nennt man die letzten vier Wochen vor Weihnachten …",
+        "image": null,
+        "options": {
+            "A": "den Buß- und Bettag.",
+            "B": "das Erntedankfest.",
+            "C": "die Adventszeit.",
+            "D": "Allerheiligen."
+        },
+        "correct_answer": {
+            "C": "die Adventszeit."
+        }
+    },
+    "Frage №297": {
+        "question": "Aus welchem Land sind die meisten Migranten / Migrantinnen nach Deutschland gekommen?",
+        "image": null,
+        "options": {
+            "A": "Italien",
+            "B": "Polen",
+            "C": "Marokko",
+            "D": "Türkei"
+        },
+        "correct_answer": {
+            "D": "Türkei"
+        }
+    },
+    "Frage №298": {
+        "question": "In der DDR lebten vor allem Migranten aus …",
+        "image": null,
+        "options": {
+            "A": "Vietnam, Polen, Mosambik.",
+            "B": "Frankreich, Rumänien, Somalia.",
+            "C": "Chile, Ungarn, Simbabwe.",
+            "D": "Nordkorea, Mexiko, Ägypten."
+        },
+        "correct_answer": {
+            "A": "Vietnam, Polen, Mosambik."
+        }
+    },
+    "Frage №299": {
+        "question": "Ausländische Arbeitnehmer und Arbeitnehmerinnen, die in den 50er und 60er Jahren von der Bundesrepublik Deutschland angeworben wurden, nannte man …",
+        "image": null,
+        "options": {
+            "A": "Schwarzarbeiter / Schwarzarbeiterinnen",
+            "B": "Gastarbeiter / Gastarbeiterinnen",
+            "C": "Zeitarbeiter / Zeitarbeiterinnen",
+            "D": "Schichtarbeiter / Schichtarbeiterinnen"
+        },
+        "correct_answer": {
+            "B": "Gastarbeiter / Gastarbeiterinnen"
+        }
+    },
+    "Frage №300": {
+        "question": "Aus welchem Land kamen die ersten Gastarbeiter / Gastarbeiterinnen in die Bundesrepublik Deutschland?",
+        "image": null,
+        "options": {
+            "A": "Italien",
+            "B": "Spanien",
+            "C": "Portugal",
+            "D": "Türkei"
+        },
+        "correct_answer": {
+            "A": "Italien"
+        }
+    }
+}

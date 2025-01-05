@@ -1,0 +1,392 @@
+{
+    "Frage №1": {
+        "question": "In Deutschland dürfen Menschen offen etwas gegen die Regierung sagen, weil …",
+        "image": null,
+        "options": {
+            "A": "hier Religionsfreiheit gilt.",
+            "B": "die Menschen Steuern zahlen.",
+            "C": "die Menschen das Wahlrecht haben.",
+            "D": "hier Meinungsfreiheit gilt."
+        },
+        "correct_answer": {
+            "D": "hier Meinungsfreiheit gilt."
+        }
+    },
+    "Frage №2": {
+        "question": "In Deutschland können Eltern bis zum 14. Lebensjahr ihres Kindes entscheiden, ob es in der Schule am …",
+        "image": null,
+        "options": {
+            "A": "Geschichtsunterricht teilnimmt.",
+            "B": "Religionsunterricht teilnimmt.",
+            "C": "Politikunterricht teilnimmt.",
+            "D": "Sprachunterricht teilnimmt."
+        },
+        "correct_answer": {
+            "B": "Religionsunterricht teilnimmt."
+        }
+    },
+    "Frage №3": {
+        "question": "Deutschland ist ein Rechtsstaat. Was ist damit gemeint?",
+        "image": null,
+        "options": {
+            "A": "Alle Einwohner / Einwohnerinnen und der Staat müssen sich an die Gesetze halten.",
+            "B": "Der Staat muss sich nicht an die Gesetze halten.",
+            "C": "Nur Deutsche müssen die Gesetze befolgen.",
+            "D": "Die Gerichte machen die Gesetze."
+        },
+        "correct_answer": {
+            "A": "Alle Einwohner / Einwohnerinnen und der Staat müssen sich an die Gesetze halten."
+        }
+    },
+    "Frage №4": {
+        "question": "Welches Recht gehört zu den Grundrechten in Deutschland?",
+        "image": null,
+        "options": {
+            "A": "Waffenbesitz",
+            "B": "Faustrecht",
+            "C": "Meinungsfreiheit",
+            "D": "Selbstjustiz"
+        },
+        "correct_answer": {
+            "C": "Meinungsfreiheit"
+        }
+    },
+    "Frage №5": {
+        "question": "Wahlen in Deutschland sind frei. Was bedeutet das?",
+        "image": null,
+        "options": {
+            "A": "Man darf Geld annehmen, wenn man dafür einen bestimmten Kandidaten / eine bestimmte Kandidatin wählt.",
+            "B": "Der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben.",
+            "C": "Nur Personen, die noch nie im Gefängnis waren, dürfen wählen.",
+            "D": "Alle wahlberechtigten Personen müssen wählen."
+        },
+        "correct_answer": {
+            "B": "Der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben."
+        }
+    },
+    "Frage №6": {
+        "question": "Wie heißt die deutsche Verfassung?",
+        "image": null,
+        "options": {
+            "A": "Volksgesetz",
+            "B": "Bundesgesetz",
+            "C": "Deutsches Gesetz",
+            "D": "Grundgesetz"
+        },
+        "correct_answer": {
+            "D": "Grundgesetz"
+        }
+    },
+    "Frage №7": {
+        "question": "Welches Recht gehört zu den Grundrechten, die nach der deutschen Verfassung garantiert werden? Das Recht auf …",
+        "image": null,
+        "options": {
+            "A": "Glaubens- und Gewissensfreiheit",
+            "B": "Unterhaltung",
+            "C": "Arbeit",
+            "D": "Wohnung"
+        },
+        "correct_answer": {
+            "A": "Glaubens- und Gewissensfreiheit"
+        }
+    },
+    "Frage №8": {
+        "question": "Was steht nicht im Grundgesetz von Deutschland?",
+        "image": null,
+        "options": {
+            "A": "Die Würde des Menschen ist unantastbar.",
+            "B": "Alle sollen gleich viel Geld haben.",
+            "C": "Jeder Mensch darf seine Meinung sagen.",
+            "D": "Alle sind vor dem Gesetz gleich."
+        },
+        "correct_answer": {
+            "B": "Alle sollen gleich viel Geld haben."
+        }
+    },
+    "Frage №9": {
+        "question": "Welches Grundrecht gilt in Deutschland nur für Ausländer / Ausländerinnen? Das Grundrecht auf …",
+        "image": null,
+        "options": {
+            "A": "Schutz der Familie",
+            "B": "Menschenwürde",
+            "C": "Asyl",
+            "D": "Meinungsfreiheit"
+        },
+        "correct_answer": {
+            "C": "Asyl"
+        }
+    },
+    "Frage №10": {
+        "question": "Was ist mit dem deutschen Grundgesetz vereinbar?",
+        "image": null,
+        "options": {
+            "A": "die Prügelstrafe",
+            "B": "die Folter",
+            "C": "die Todesstrafe",
+            "D": "die Geldstrafe"
+        },
+        "correct_answer": {
+            "D": "die Geldstrafe"
+        }
+    },
+    "Frage №11": {
+        "question": "Wie wird die Verfassung der Bundesrepublik Deutschland genannt?",
+        "image": null,
+        "options": {
+            "A": "Grundgesetz",
+            "B": "Bundesverfassung",
+            "C": "Gesetzbuch",
+            "D": "Verfassungsvertrag"
+        },
+        "correct_answer": {
+            "A": "Grundgesetz"
+        }
+    },
+    "Frage №12": {
+        "question": "Eine Partei im Deutschen Bundestag will die Pressefreiheit abschaffen. Ist das möglich?",
+        "image": null,
+        "options": {
+            "A": "Ja, wenn mehr als die Hälfte der Abgeordneten im Bundestag dafür sind.",
+            "B": "Ja, aber dazu müssen zwei Drittel der Abgeordneten im Bundestag dafür sein.",
+            "C": "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.",
+            "D": "Nein, denn nur der Bundesrat kann die Pressefreiheit abschaffen."
+        },
+        "correct_answer": {
+            "C": "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden."
+        }
+    },
+    "Frage №13": {
+        "question": "Im Parlament steht der Begriff „Opposition“ für…",
+        "image": null,
+        "options": {
+            "A": "die regierenden Parteien.",
+            "B": "alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören.",
+            "C": "die Fraktion mit den meisten Abgeordneten.",
+            "D": "alle Parteien, die bei der letzten Wahl die 5%-Hürde erreichen konnten."
+        },
+        "correct_answer": {
+            "B": "alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören."
+        }
+    },
+    "Frage №14": {
+        "question": "Meinungsfreiheit in Deutschland heißt zum Beispiel, dass ich …",
+        "image": null,
+        "options": {
+            "A": "Passanten auf der Straße beschimpfen darf.",
+            "B": "meine Meinung im Internet äußern kann.",
+            "C": "Nazi-, Hamas- oder Islamischer Staat-Symbole öffentlich tragen darf.",
+            "D": "meine Meinung nur dann äußern darf, solange ich der Regierung nicht widerspreche."
+        },
+        "correct_answer": {
+            "B": "meine Meinung im Internet äußern kann."
+        }
+    },
+    "Frage №15": {
+        "question": "Was verbietet das deutsche Grundgesetz?",
+        "image": null,
+        "options": {
+            "A": "Militärdienst",
+            "B": "Zwangsarbeit",
+            "C": "freie Berufswahl",
+            "D": "Arbeit im Ausland"
+        },
+        "correct_answer": {
+            "B": "Zwangsarbeit"
+        }
+    },
+    "Frage №16": {
+        "question": "Wann ist die Meinungsfreiheit in Deutschland eingeschränkt?",
+        "image": null,
+        "options": {
+            "A": "bei der öffentlichen Verbreitung falscher Behauptungen über einzelne Personen",
+            "B": "bei Meinungsäußerungen über die Bundesregierung",
+            "C": "bei Diskussionen über Religionen",
+            "D": "bei Kritik am Staat"
+        },
+        "correct_answer": {
+            "A": "bei der öffentlichen Verbreitung falscher Behauptungen über einzelne Personen"
+        }
+    },
+    "Frage №17": {
+        "question": "Die deutschen Gesetze verbieten …",
+        "image": null,
+        "options": {
+            "A": "Meinungsfreiheit der Einwohner und Einwohnerinnen.",
+            "B": "Petitionen der Bürger und Bürgerinnen.",
+            "C": "Versammlungsfreiheit der Einwohner und Einwohnerinnen.",
+            "D": "Ungleichbehandlung der Bürger und Bürgerinnen durch den Staat."
+        },
+        "correct_answer": {
+            "D": "Ungleichbehandlung der Bürger und Bürgerinnen durch den Staat."
+        }
+    },
+    "Frage №18": {
+        "question": "Welches Grundrecht ist in Artikel 1 des Grundgesetzes der Bundesrepublik Deutschland garantiert?",
+        "image": null,
+        "options": {
+            "A": "die Unantastbarkeit der Menschenwürde",
+            "B": "das Recht auf Leben",
+            "C": "Religionsfreiheit",
+            "D": "Meinungsfreiheit"
+        },
+        "correct_answer": {
+            "A": "die Unantastbarkeit der Menschenwürde"
+        }
+    },
+    "Frage №19": {
+        "question": "Was versteht man unter dem Recht der „Freizügigkeit“ in Deutschland?",
+        "image": null,
+        "options": {
+            "A": "Man darf sich seinen Wohnort selbst aussuchen.",
+            "B": "Man kann seinen Beruf wechseln.",
+            "C": "Man darf sich für eine andere Religion entscheiden.",
+            "D": "Man darf sich in der Öffentlichkeit nur leicht bekleidet bewegen."
+        },
+        "correct_answer": {
+            "A": "Man darf sich seinen Wohnort selbst aussuchen."
+        }
+    },
+    "Frage №20": {
+        "question": "Eine Partei in Deutschland verfolgt das Ziel, eine Diktatur zu errichten. Sie ist dann …",
+        "image": null,
+        "options": {
+            "A": "tolerant.",
+            "B": "rechtsstaatlich orientiert.",
+            "C": "gesetzestreu.",
+            "D": "verfassungswidrig."
+        },
+        "correct_answer": {
+            "D": "verfassungswidrig."
+        }
+    },
+    "Frage №21": {
+        "question": "Welches ist das Wappen der Bundesrepublik Deutschland?",
+        "image": "https://www.lebenindeutschland.eu/img/questions/021.png",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": {
+            "A": "1"
+        }
+    },
+    "Frage №22": {
+        "question": "Was für eine Staatsform hat Deutschland?",
+        "image": null,
+        "options": {
+            "A": "Monarchie",
+            "B": "Diktatur",
+            "C": "Republik",
+            "D": "Fürstentum"
+        },
+        "correct_answer": {
+            "C": "Republik"
+        }
+    },
+    "Frage №23": {
+        "question": "In Deutschland sind die meisten Erwerbstätigen …",
+        "image": null,
+        "options": {
+            "A": "bei einer Firma oder Behörde beschäftigt.",
+            "B": "in kleinen Familienunternehmen beschäftigt.",
+            "C": "ehrenamtlich für ein Bundesland tätig.",
+            "D": "selbständig mit einer eigenen Firma tätig."
+        },
+        "correct_answer": {
+            "A": "bei einer Firma oder Behörde beschäftigt."
+        }
+    },
+    "Frage №24": {
+        "question": "Wie viele Bundesländer hat die Bundesrepublik Deutschland?",
+        "image": null,
+        "options": {
+            "A": "14",
+            "B": "15",
+            "C": "16",
+            "D": "17"
+        },
+        "correct_answer": {
+            "C": "16"
+        }
+    },
+    "Frage №25": {
+        "question": "Was ist kein Bundesland der Bundesrepublik Deutschland?",
+        "image": null,
+        "options": {
+            "A": "Nordrhein-Westfalen",
+            "B": "Elsass-Lothringen",
+            "C": "Mecklenburg-Vorpommern",
+            "D": "Sachsen-Anhalt"
+        },
+        "correct_answer": {
+            "B": "Elsass-Lothringen"
+        }
+    },
+    "Frage №26": {
+        "question": "Deutschland ist …",
+        "image": null,
+        "options": {
+            "A": "eine kommunistische Republik.",
+            "B": "ein demokratischer und sozialer Bundesstaat.",
+            "C": "eine kapitalistische und soziale Monarchie.",
+            "D": "ein sozialer und sozialistischer Bundesstaat."
+        },
+        "correct_answer": {
+            "B": "ein demokratischer und sozialer Bundesstaat."
+        }
+    },
+    "Frage №27": {
+        "question": "Deutschland ist …",
+        "image": null,
+        "options": {
+            "A": "ein sozialistischer Staat.",
+            "B": "ein Bundesstaat.",
+            "C": "eine Diktatur.",
+            "D": "eine Monarchie."
+        },
+        "correct_answer": {
+            "B": "ein Bundesstaat."
+        }
+    },
+    "Frage №28": {
+        "question": "Wer wählt in Deutschland die Abgeordneten zum Bundestag?",
+        "image": null,
+        "options": {
+            "A": "das Militär",
+            "B": "die Wirtschaft",
+            "C": "das wahlberechtigte Volk",
+            "D": "die Verwaltung"
+        },
+        "correct_answer": {
+            "C": "das wahlberechtigte Volk"
+        }
+    },
+    "Frage №29": {
+        "question": "Welches Tier ist das Wappentier der Bundesrepublik Deutschland?",
+        "image": null,
+        "options": {
+            "A": "Löwe",
+            "B": "Adler",
+            "C": "Bär",
+            "D": "Pferd"
+        },
+        "correct_answer": {
+            "B": "Adler"
+        }
+    },
+    "Frage №30": {
+        "question": "Was ist kein Merkmal unserer Demokratie?",
+        "image": null,
+        "options": {
+            "A": "regelmäßige Wahlen",
+            "B": "Pressezensur",
+            "C": "Meinungsfreiheit",
+            "D": "verschiedene Parteien"
+        },
+        "correct_answer": {
+            "B": "Pressezensur"
+        }
+    }
+}

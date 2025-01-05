@@ -1,0 +1,392 @@
+{
+    "Frage №31": {
+        "question": "Die Zusammenarbeit von Parteien zur Bildung einer Regierung nennt man in Deutschland …",
+        "image": null,
+        "options": {
+            "A": "Einheit.",
+            "B": "Koalition.",
+            "C": "Ministerium.",
+            "D": "Fraktion."
+        },
+        "correct_answer": {
+            "B": "Koalition."
+        }
+    },
+    "Frage №32": {
+        "question": "Was ist keine staatliche Gewalt in Deutschland?",
+        "image": null,
+        "options": {
+            "A": "Gesetzgebung",
+            "B": "Regierung",
+            "C": "Presse",
+            "D": "Rechtsprechung"
+        },
+        "correct_answer": {
+            "C": "Presse"
+        }
+    },
+    "Frage №33": {
+        "question": "Welche Aussage ist richtig? In Deutschland …",
+        "image": null,
+        "options": {
+            "A": "sind Staat und Religionsgemeinschaften voneinander getrennt.",
+            "B": "bilden die Religionsgemeinschaften den Staat.",
+            "C": "ist der Staat abhängig von den Religionsgemeinschaften.",
+            "D": "bilden Staat und Religionsgemeinschaften eine Einheit."
+        },
+        "correct_answer": {
+            "A": "sind Staat und Religionsgemeinschaften voneinander getrennt."
+        }
+    },
+    "Frage №34": {
+        "question": "Was ist Deutschland nicht?",
+        "image": null,
+        "options": {
+            "A": "eine Demokratie",
+            "B": "ein Rechtsstaat",
+            "C": "eine Monarchie",
+            "D": "ein Sozialstaat"
+        },
+        "correct_answer": {
+            "C": "eine Monarchie"
+        }
+    },
+    "Frage №35": {
+        "question": "Womit finanziert der deutsche Staat die Sozialversicherung?",
+        "image": null,
+        "options": {
+            "A": "Kirchensteuern",
+            "B": "Sozialabgaben",
+            "C": "Spendengeldern",
+            "D": "Vereinsbeiträgen"
+        },
+        "correct_answer": {
+            "B": "Sozialabgaben"
+        }
+    },
+    "Frage №36": {
+        "question": "Welche Maßnahme schafft in Deutschland soziale Sicherheit?",
+        "image": null,
+        "options": {
+            "A": "die Krankenversicherung",
+            "B": "die Autoversicherung",
+            "C": "die Gebäudeversicherung",
+            "D": "die Haftpflichtversicherung"
+        },
+        "correct_answer": {
+            "A": "die Krankenversicherung"
+        }
+    },
+    "Frage №37": {
+        "question": "Wie werden die Regierungschefs / Regierungschefinnen der meisten Bundesländer in Deutschland genannt?",
+        "image": null,
+        "options": {
+            "A": "Erster Minister / Erste Ministerin",
+            "B": "Premierminister / Premierministerin",
+            "C": "Senator / Senatorin",
+            "D": "Ministerpräsident / Ministerpräsidentin"
+        },
+        "correct_answer": {
+            "D": "Ministerpräsident / Ministerpräsidentin"
+        }
+    },
+    "Frage №38": {
+        "question": "Die Bundesrepublik Deutschland ist ein demokratischer und sozialer …",
+        "image": null,
+        "options": {
+            "A": "Staatenverbund.",
+            "B": "Bundesstaat.",
+            "C": "Staatenbund.",
+            "D": "Zentralstaat."
+        },
+        "correct_answer": {
+            "B": "Bundesstaat."
+        }
+    },
+    "Frage №39": {
+        "question": "Was hat jedes deutsche Bundesland?",
+        "image": null,
+        "options": {
+            "A": "einen eigenen Außenminister / eine eigene Außenministerin",
+            "B": "eine eigene Währung",
+            "C": "eine eigene Armee",
+            "D": "eine eigene Regierung"
+        },
+        "correct_answer": {
+            "D": "eine eigene Regierung"
+        }
+    },
+    "Frage №40": {
+        "question": "Mit welchen Worten beginnt die deutsche Nationalhymne?",
+        "image": null,
+        "options": {
+            "A": "Völker, hört die Signale …",
+            "B": "Einigkeit und Recht und Freiheit …",
+            "C": "Freude schöner Götterfunken …",
+            "D": "Deutschland einig Vaterland …"
+        },
+        "correct_answer": {
+            "B": "Einigkeit und Recht und Freiheit …"
+        }
+    },
+    "Frage №41": {
+        "question": "Warum gibt es in einer Demokratie mehr als eine Partei?",
+        "image": null,
+        "options": {
+            "A": "weil dadurch die unterschiedlichen Meinungen der Bürger und Bürgerinnen vertreten werden",
+            "B": "damit Bestechung in der Politik begrenzt wird",
+            "C": "um politische Demonstrationen zu verhindern",
+            "D": "um wirtschaftlichen Wettbewerb anzuregen"
+        },
+        "correct_answer": {
+            "A": "weil dadurch die unterschiedlichen Meinungen der Bürger und Bürgerinnen vertreten werden"
+        }
+    },
+    "Frage №42": {
+        "question": "Wer beschließt in Deutschland ein neues Gesetz?",
+        "image": null,
+        "options": {
+            "A": "die Regierung",
+            "B": "das Parlament",
+            "C": "die Gerichte",
+            "D": "die Polizei"
+        },
+        "correct_answer": {
+            "B": "das Parlament"
+        }
+    },
+    "Frage №43": {
+        "question": "Wann kann in Deutschland eine Partei verboten werden?",
+        "image": null,
+        "options": {
+            "A": "wenn ihr Wahlkampf zu teuer ist",
+            "B": "wenn sie gegen die Verfassung kämpft",
+            "C": "wenn sie Kritik am Staatsoberhaupt äußert",
+            "D": "wenn ihr Programm eine neue Richtung vorschlägt"
+        },
+        "correct_answer": {
+            "B": "wenn sie gegen die Verfassung kämpft"
+        }
+    },
+    "Frage №44": {
+        "question": "Wen kann man als Bürger / Bürgerin in Deutschland nicht direkt wählen?",
+        "image": null,
+        "options": {
+            "A": "Abgeordnete des EU-Parlaments",
+            "B": "den Bundespräsidenten / die Bundespräsidentin",
+            "C": "Landtagsabgeordnete",
+            "D": "Bundestagsabgeordnete"
+        },
+        "correct_answer": {
+            "B": "den Bundespräsidenten / die Bundespräsidentin"
+        }
+    },
+    "Frage №45": {
+        "question": "Zu welcher Versicherung gehört die Pflegeversicherung?",
+        "image": null,
+        "options": {
+            "A": "Sozialversicherung",
+            "B": "Unfallversicherung",
+            "C": "Hausratversicherung",
+            "D": "Haftpflicht- und Feuerversicherung"
+        },
+        "correct_answer": {
+            "A": "Sozialversicherung"
+        }
+    },
+    "Frage №46": {
+        "question": "Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört dazu?",
+        "image": null,
+        "options": {
+            "A": "Er baut Straßen und Schulen.",
+            "B": "Er verkauft Lebensmittel und Kleidung.",
+            "C": "Er versorgt alle Einwohner und Einwohnerinnen kostenlos mit Zeitungen.",
+            "D": "Er produziert Autos und Busse."
+        },
+        "correct_answer": {
+            "A": "Er baut Straßen und Schulen."
+        }
+    },
+    "Frage №47": {
+        "question": "Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört nicht dazu?",
+        "image": null,
+        "options": {
+            "A": "Er bezahlt für alle Staatsangehörigen Urlaubsreisen.",
+            "B": "Er zahlt Kindergeld.",
+            "C": "Er unterstützt Museen.",
+            "D": "Er fördert Sportler und Sportlerinnen."
+        },
+        "correct_answer": {
+            "A": "Er bezahlt für alle Staatsangehörigen Urlaubsreisen."
+        }
+    },
+    "Frage №48": {
+        "question": "Welches Organ gehört nicht zu den Verfassungsorganen Deutschlands?",
+        "image": null,
+        "options": {
+            "A": "der Bundesrat",
+            "B": "der Bundespräsident / die Bundespräsidentin",
+            "C": "die Bürgerversammlung",
+            "D": "die Regierung"
+        },
+        "correct_answer": {
+            "C": "die Bürgerversammlung"
+        }
+    },
+    "Frage №49": {
+        "question": "Wer bestimmt in Deutschland die Schulpolitik?",
+        "image": null,
+        "options": {
+            "A": "die Lehrer und Lehrerinnen",
+            "B": "die Bundesländer",
+            "C": "das Familienministerium",
+            "D": "die Universitäten"
+        },
+        "correct_answer": {
+            "B": "die Bundesländer"
+        }
+    },
+    "Frage №50": {
+        "question": "Die Wirtschaftsform in Deutschland nennt man …",
+        "image": null,
+        "options": {
+            "A": "freie Zentralwirtschaft.",
+            "B": "soziale Marktwirtschaft.",
+            "C": "gelenkte Zentralwirtschaft.",
+            "D": "Planwirtschaft."
+        },
+        "correct_answer": {
+            "B": "soziale Marktwirtschaft."
+        }
+    },
+    "Frage №51": {
+        "question": "Zu einem demokratischen Rechtsstaat gehört es nicht, dass …",
+        "image": null,
+        "options": {
+            "A": "Menschen sich kritisch über die Regierung äußern können.",
+            "B": "Bürger friedlich demonstrieren gehen dürfen.",
+            "C": "Menschen von einer Privatpolizei ohne Grund verhaftet werden.",
+            "D": "jemand ein Verbrechen begeht und deshalb verhaftet wird."
+        },
+        "correct_answer": {
+            "C": "Menschen von einer Privatpolizei ohne Grund verhaftet werden."
+        }
+    },
+    "Frage №52": {
+        "question": "Was bedeutet „Volkssouveränität“? Alle Staatsgewalt geht vom …",
+        "image": null,
+        "options": {
+            "A": "Volke aus.",
+            "B": "Bundestag aus.",
+            "C": "preußischen König aus.",
+            "D": "Bundesverfassungsgericht aus."
+        },
+        "correct_answer": {
+            "A": "Volke aus."
+        }
+    },
+    "Frage №53": {
+        "question": "Was bedeutet „Rechtsstaat“ in Deutschland?",
+        "image": null,
+        "options": {
+            "A": "Der Staat hat Recht.",
+            "B": "Es gibt nur rechte Parteien.",
+            "C": "Die Bürger und Bürgerinnen entscheiden über Gesetze.",
+            "D": "Der Staat muss die Gesetze einhalten."
+        },
+        "correct_answer": {
+            "D": "Der Staat muss die Gesetze einhalten."
+        }
+    },
+    "Frage №54": {
+        "question": "Was ist keine staatliche Gewalt in Deutschland?",
+        "image": null,
+        "options": {
+            "A": "Legislative",
+            "B": "Judikative",
+            "C": "Exekutive",
+            "D": "Direktive"
+        },
+        "correct_answer": {
+            "D": "Direktive"
+        }
+    },
+    "Frage №55": {
+        "question": "Was zeigt dieses Bild?",
+        "image": "https://www.lebenindeutschland.eu/img/questions/055.png",
+        "options": {
+            "A": "den Bundestagssitz in Berlin",
+            "B": "das Bundesverfassungsgericht in Karlsruhe",
+            "C": "das Bundesratsgebäude in Berlin",
+            "D": "das Bundeskanzleramt in Berlin"
+        },
+        "correct_answer": {
+            "A": "den Bundestagssitz in Berlin"
+        }
+    },
+    "Frage №56": {
+        "question": "Welches Amt gehört in Deutschland zur Gemeindeverwaltung?",
+        "image": null,
+        "options": {
+            "A": "Pfarramt",
+            "B": "Ordnungsamt",
+            "C": "Finanzamt",
+            "D": "Auswärtiges Amt"
+        },
+        "correct_answer": {
+            "B": "Ordnungsamt"
+        }
+    },
+    "Frage №57": {
+        "question": "Wer wird meistens zum Präsidenten / zur Präsidentin des Deutschen Bundestages gewählt?",
+        "image": null,
+        "options": {
+            "A": "der / die älteste Abgeordnete im Parlament",
+            "B": "der Ministerpräsident / die Ministerpräsidentin des größten Bundeslandes",
+            "C": "ein Abgeordneter / eine Abgeordnete der stärksten Fraktion",
+            "D": "ein ehemaliger Bundeskanzler / eine ehemalige Bundeskanzlerin"
+        },
+        "correct_answer": {
+            "C": "ein Abgeordneter / eine Abgeordnete der stärksten Fraktion"
+        }
+    },
+    "Frage №58": {
+        "question": "Wer ernennt in Deutschland die Minister / die Ministerinnen der Bundesregierung?",
+        "image": null,
+        "options": {
+            "A": "der Präsident / die Präsidentin des Bundesverfassungsgerichtes",
+            "B": "der Bundespräsident / die Bundespräsidentin",
+            "C": "der Bundesratspräsident / die Bundesratspräsidentin",
+            "D": "der Bundestagspräsident / die Bundestagspräsidentin"
+        },
+        "correct_answer": {
+            "B": "der Bundespräsident / die Bundespräsidentin"
+        }
+    },
+    "Frage №59": {
+        "question": "Vor wie vielen Jahren gab es erstmals eine jüdische Gemeinde auf dem Gebiet des heutigen Deutschlands?",
+        "image": null,
+        "options": {
+            "A": "vor etwa 300 Jahren",
+            "B": "vor etwa 700 Jahren",
+            "C": "vor etwa 1150 Jahren",
+            "D": "vor etwa 1700 Jahren"
+        },
+        "correct_answer": {
+            "D": "vor etwa 1700 Jahren"
+        }
+    },
+    "Frage №60": {
+        "question": "In Deutschland gehören der Bundestag und der Bundesrat zur …",
+        "image": null,
+        "options": {
+            "A": "Exekutive.",
+            "B": "Legislative.",
+            "C": "Direktive.",
+            "D": "Judikative."
+        },
+        "correct_answer": {
+            "B": "Legislative."
+        }
+    }
+}

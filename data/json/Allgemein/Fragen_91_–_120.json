@@ -1,0 +1,392 @@
+{
+    "Frage №91": {
+        "question": "In Deutschland kann ein Regierungswechsel in einem Bundesland Auswirkungen auf die Bundespolitik haben. Das Regieren wird …",
+        "image": null,
+        "options": {
+            "A": "schwieriger, wenn sich dadurch die Mehrheit im Bundestag ändert.",
+            "B": "leichter, wenn dadurch neue Parteien in den Bundesrat kommen.",
+            "C": "schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird.",
+            "D": "leichter, wenn es sich um ein reiches Bundesland handelt."
+        },
+        "correct_answer": {
+            "C": "schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird."
+        }
+    },
+    "Frage №92": {
+        "question": "Was bedeutet die Abkürzung CSU in Deutschland?",
+        "image": null,
+        "options": {
+            "A": "Christlich Sichere Union",
+            "B": "Christlich Süddeutsche Union",
+            "C": "Christlich Sozialer Unternehmerverband",
+            "D": "Christlich Soziale Union"
+        },
+        "correct_answer": {
+            "D": "Christlich Soziale Union"
+        }
+    },
+    "Frage №93": {
+        "question": "Je mehr „Zweitstimmen“ eine Partei bei einer Bundestagswahl bekommt, desto …",
+        "image": null,
+        "options": {
+            "A": "mehr Sitze erhält die Partei im Parlament.",
+            "B": "weniger Erststimmen kann sie haben.",
+            "C": "mehr Direktkandidaten der Partei ziehen ins Parlament ein.",
+            "D": "größer ist das Risiko, eine Koalition bilden zu müssen."
+        },
+        "correct_answer": {
+            "A": "mehr Sitze erhält die Partei im Parlament."
+        }
+    },
+    "Frage №94": {
+        "question": "Ab welchem Alter darf man in Deutschland an der Wahl zum Deutschen Bundestag teilnehmen?",
+        "image": null,
+        "options": {
+            "A": "16",
+            "B": "18",
+            "C": "21",
+            "D": "23"
+        },
+        "correct_answer": {
+            "B": "18"
+        }
+    },
+    "Frage №95": {
+        "question": "Was gilt für die meisten Kinder in Deutschland?",
+        "image": null,
+        "options": {
+            "A": "Wahlpflicht",
+            "B": "Schulpflicht",
+            "C": "Schweigepflicht",
+            "D": "Religionspflicht"
+        },
+        "correct_answer": {
+            "B": "Schulpflicht"
+        }
+    },
+    "Frage №96": {
+        "question": "Wie kann jemand, der den Holocaust leugnet, bestraft werden?",
+        "image": null,
+        "options": {
+            "A": "Kürzung sozialer Leistungen",
+            "B": "bis zu 100 Sozialstunden",
+            "C": "gar nicht, Holocaustleugnung ist erlaubt",
+            "D": "mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe"
+        },
+        "correct_answer": {
+            "D": "mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe"
+        }
+    },
+    "Frage №97": {
+        "question": "Was bezahlt man in Deutschland automatisch, wenn man fest angestellt ist?",
+        "image": null,
+        "options": {
+            "A": "Sozialversicherung",
+            "B": "Sozialhilfe",
+            "C": "Kindergeld",
+            "D": "Wohngeld"
+        },
+        "correct_answer": {
+            "A": "Sozialversicherung"
+        }
+    },
+    "Frage №98": {
+        "question": "Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln, ...",
+        "image": null,
+        "options": {
+            "A": "kann die Regierung ihre Mehrheit verlieren.",
+            "B": "dürfen sie nicht mehr an den Sitzungen des Parlaments teilnehmen.",
+            "C": "muss der Bundespräsident / die Bundespräsidentin zuvor sein / ihr Einverständnis geben.",
+            "D": "dürfen die Wähler / Wählerinnen dieser Abgeordneten noch einmal wählen."
+        },
+        "correct_answer": {
+            "A": "kann die Regierung ihre Mehrheit verlieren."
+        }
+    },
+    "Frage №99": {
+        "question": "Wer bezahlt in Deutschland die Sozialversicherungen?",
+        "image": null,
+        "options": {
+            "A": "Arbeitgeber / Arbeitgeberinnen und Arbeitnehmer / Arbeitnehmerinnen",
+            "B": "nur Arbeitnehmer / Arbeitnehmerinnen",
+            "C": "alle Staatsangehörigen",
+            "D": "nur Arbeitgeber / Arbeitgeberinnen"
+        },
+        "correct_answer": {
+            "A": "Arbeitgeber / Arbeitgeberinnen und Arbeitnehmer / Arbeitnehmerinnen"
+        }
+    },
+    "Frage №100": {
+        "question": "Was gehört nicht zur gesetzlichen Sozialversicherung?",
+        "image": null,
+        "options": {
+            "A": "die gesetzliche Rentenversicherung",
+            "B": "die Lebensversicherung",
+            "C": "die Arbeitslosenversicherung",
+            "D": "die Pflegeversicherung"
+        },
+        "correct_answer": {
+            "B": "die Lebensversicherung"
+        }
+    },
+    "Frage №101": {
+        "question": "Gewerkschaften sind Interessenverbände der …",
+        "image": null,
+        "options": {
+            "A": "Jugendlichen.",
+            "B": "Arbeitnehmer und Arbeitnehmerinnen.",
+            "C": "Rentner und Rentnerinnen.",
+            "D": "Arbeitgeber und Arbeitgeberinnen."
+        },
+        "correct_answer": {
+            "B": "Arbeitnehmer und Arbeitnehmerinnen."
+        }
+    },
+    "Frage №102": {
+        "question": "Womit kann man in der Bundesrepublik Deutschland geehrt werden, wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem Gebiet eine besondere Leistung erbracht hat? Mit dem …",
+        "image": null,
+        "options": {
+            "A": "Bundesadler",
+            "B": "Bundesverdienstkreuz",
+            "C": "Vaterländischen Verdienstorden",
+            "D": "Ehrentitel „Held der Deutschen Demokratischen Republik“"
+        },
+        "correct_answer": {
+            "B": "Bundesverdienstkreuz"
+        }
+    },
+    "Frage №103": {
+        "question": "Was wird in Deutschland als „Ampelkoalition“ bezeichnet? Die Zusammenarbeit …",
+        "image": null,
+        "options": {
+            "A": "der Bundestagsfraktionen von CDU und CSU",
+            "B": "von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung",
+            "C": "von CSU, Die LINKE und Bündnis 90/Die Grünen in einer Regierung",
+            "D": "der Bundestagsfraktionen von CDU und SPD"
+        },
+        "correct_answer": {
+            "B": "von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung"
+        }
+    },
+    "Frage №104": {
+        "question": "Eine Frau in Deutschland verliert ihre Arbeit. Was darf nicht der Grund für diese Entlassung sein?",
+        "image": null,
+        "options": {
+            "A": "Die Frau ist lange krank und arbeitsunfähig.",
+            "B": "Die Frau kam oft zu spät zur Arbeit.",
+            "C": "Die Frau erledigt private Sachen während der Arbeitszeit.",
+            "D": "Die Frau bekommt ein Kind und ihr Chef weiß das."
+        },
+        "correct_answer": {
+            "D": "Die Frau bekommt ein Kind und ihr Chef weiß das."
+        }
+    },
+    "Frage №105": {
+        "question": "Was ist eine Aufgabe von Wahlhelfern / Wahlhelferinnen in Deutschland?",
+        "image": null,
+        "options": {
+            "A": "Sie helfen alten Menschen bei der Stimmabgabe in der Wahlkabine.",
+            "B": "Sie schreiben die Wahlbenachrichtigungen vor der Wahl.",
+            "C": "Sie geben Zwischenergebnisse an die Medien weiter.",
+            "D": "Sie zählen die Stimmen nach dem Ende der Wahl."
+        },
+        "correct_answer": {
+            "D": "Sie zählen die Stimmen nach dem Ende der Wahl."
+        }
+    },
+    "Frage №106": {
+        "question": "In Deutschland helfen ehrenamtliche Wahlhelfer und Wahlhelferinnen bei den Wahlen. Was ist eine Aufgabe von Wahlhelfern / Wahlhelferinnen?",
+        "image": null,
+        "options": {
+            "A": "Sie helfen Kindern und alten Menschen beim Wählen.",
+            "B": "Sie schreiben Karten und Briefe mit der Angabe des Wahllokals.",
+            "C": "Sie geben Zwischenergebnisse an Journalisten weiter.",
+            "D": "Sie zählen die Stimmen nach dem Ende der Wahl."
+        },
+        "correct_answer": {
+            "D": "Sie zählen die Stimmen nach dem Ende der Wahl."
+        }
+    },
+    "Frage №107": {
+        "question": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
+        "image": null,
+        "options": {
+            "A": "2 Jahre",
+            "B": "4 Jahre",
+            "C": "6 Jahre",
+            "D": "8 Jahre"
+        },
+        "correct_answer": {
+            "B": "4 Jahre"
+        }
+    },
+    "Frage №108": {
+        "question": "Bei einer Bundestagswahl in Deutschland darf jeder wählen, der …",
+        "image": null,
+        "options": {
+            "A": "in der Bundesrepublik Deutschland wohnt und wählen möchte.",
+            "B": "Bürger / Bürgerin der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.",
+            "C": "seit mindestens 3 Jahren in der Bundesrepublik Deutschland lebt.",
+            "D": "Bürger / Bürgerin der Bundesrepublik Deutschland ist und mindestens 21 Jahre alt ist."
+        },
+        "correct_answer": {
+            "B": "Bürger / Bürgerin der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist."
+        }
+    },
+    "Frage №109": {
+        "question": "Wie oft gibt es normalerweise Bundestagswahlen in Deutschland?",
+        "image": null,
+        "options": {
+            "A": "alle drei Jahre",
+            "B": "alle vier Jahre",
+            "C": "alle fünf Jahre",
+            "D": "alle sechs Jahre"
+        },
+        "correct_answer": {
+            "B": "alle vier Jahre"
+        }
+    },
+    "Frage №110": {
+        "question": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
+        "image": null,
+        "options": {
+            "A": "2 Jahre",
+            "B": "3 Jahre",
+            "C": "4 Jahre",
+            "D": "5 Jahre"
+        },
+        "correct_answer": {
+            "C": "4 Jahre"
+        }
+    },
+    "Frage №111": {
+        "question": "Welche Handlung mit Bezug auf den Staat Israel ist in Deutschland verboten?",
+        "image": null,
+        "options": {
+            "A": "Die Politik Israels öffentlich kritisieren.",
+            "B": "Das Aufhängen einer israelischen Flagge auf dem Privatgrundstück.",
+            "C": "Eine Diskussion über die Politik Israels.",
+            "D": "Der öffentliche Aufruf zur Vernichtung Israels."
+        },
+        "correct_answer": {
+            "D": "Der öffentliche Aufruf zur Vernichtung Israels."
+        }
+    },
+    "Frage №112": {
+        "question": "Die Wahlen in Deutschland sind …",
+        "image": null,
+        "options": {
+            "A": "speziell.",
+            "B": "geheim.",
+            "C": "berufsbezogen.",
+            "D": "geschlechtsabhängig."
+        },
+        "correct_answer": {
+            "B": "geheim."
+        }
+    },
+    "Frage №113": {
+        "question": "Wahlen in Deutschland gewinnt die Partei, die …",
+        "image": null,
+        "options": {
+            "A": "die meisten Stimmen bekommt.",
+            "B": "die meisten Männer mehrheitlich gewählt haben.",
+            "C": "die meisten Stimmen bei den Arbeitern / Arbeiterinnen bekommen hat.",
+            "D": "die meisten Erststimmen für ihren Kanzlerkandidaten / ihre Kanzlerkandidatin erhalten hat."
+        },
+        "correct_answer": {
+            "A": "die meisten Stimmen bekommt."
+        }
+    },
+    "Frage №114": {
+        "question": "An demokratischen Wahlen in Deutschland teilzunehmen ist …",
+        "image": null,
+        "options": {
+            "A": "eine Pflicht.",
+            "B": "ein Recht.",
+            "C": "ein Zwang.",
+            "D": "eine Last."
+        },
+        "correct_answer": {
+            "B": "ein Recht."
+        }
+    },
+    "Frage №115": {
+        "question": "Was bedeutet „aktives Wahlrecht“ in Deutschland?",
+        "image": null,
+        "options": {
+            "A": "Man kann gewählt werden.",
+            "B": "Man muss wählen gehen.",
+            "C": "Man kann wählen.",
+            "D": "Man muss zur Auszählung der Stimmen gehen."
+        },
+        "correct_answer": {
+            "C": "Man kann wählen."
+        }
+    },
+    "Frage №116": {
+        "question": "Wenn Sie bei einer Bundestagswahl in Deutschland wählen dürfen, heißt das …",
+        "image": null,
+        "options": {
+            "A": "aktive Wahlkampagne.",
+            "B": "aktives Wahlverfahren.",
+            "C": "aktiver Wahlkampf.",
+            "D": "aktives Wahlrecht."
+        },
+        "correct_answer": {
+            "D": "aktives Wahlrecht."
+        }
+    },
+    "Frage №117": {
+        "question": "Wie viel Prozent der Zweitstimmen müssen Parteien mindestens bekommen, um in den Deutschen Bundestag gewählt zu werden?",
+        "image": null,
+        "options": {
+            "A": "3 %",
+            "B": "4 %",
+            "C": "5 %",
+            "D": "6 %"
+        },
+        "correct_answer": {
+            "C": "5 %"
+        }
+    },
+    "Frage №118": {
+        "question": "Wer darf bei den rund 40 jüdischen Makkabi-Sportvereinen Mitglied werden?",
+        "image": null,
+        "options": {
+            "A": "nur Deutsche",
+            "B": "nur Israelis",
+            "C": "nur religiöse Menschen",
+            "D": "alle Menschen"
+        },
+        "correct_answer": {
+            "D": "alle Menschen"
+        }
+    },
+    "Frage №119": {
+        "question": "Wahlen in Deutschland sind frei. Was bedeutet das?",
+        "image": null,
+        "options": {
+            "A": "Alle verurteilten Straftäter / Straftäterinnen dürfen nicht wählen.",
+            "B": "Wenn ich wählen gehen möchte, muss mein Arbeitgeber / meine Arbeitgeberin mir frei geben.",
+            "C": "Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.",
+            "D": "Ich kann frei entscheiden, wo ich wählen gehen möchte."
+        },
+        "correct_answer": {
+            "C": "Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte."
+        }
+    },
+    "Frage №120": {
+        "question": "Das Wahlsystem in Deutschland ist ein …",
+        "image": null,
+        "options": {
+            "A": "Zensuswahlrecht.",
+            "B": "Dreiklassenwahlrecht.",
+            "C": "Mehrheits- und Verhältniswahlrecht.",
+            "D": "allgemeines Männerwahlrecht."
+        },
+        "correct_answer": {
+            "C": "Mehrheits- und Verhältniswahlrecht."
+        }
+    }
+}

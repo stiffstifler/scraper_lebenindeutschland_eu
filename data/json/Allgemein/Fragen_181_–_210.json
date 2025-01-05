@@ -1,0 +1,392 @@
+{
+    "Frage №181": {
+        "question": "Was wollte Willy Brandt mit seinem Kniefall 1970 im ehemaligen jüdischen Ghetto in Warschau ausdrücken?",
+        "image": "https://www.lebenindeutschland.eu/img/questions/181.png",
+        "options": {
+            "A": "Er hat sich den ehemaligen Alliierten unterworfen.",
+            "B": "Er bat Polen und die polnischen Juden um Vergebung.",
+            "C": "Er zeigte seine Demut vor dem Warschauer Pakt.",
+            "D": "Er sprach ein Gebet am Grab des Unbekannten Soldaten."
+        },
+        "correct_answer": {
+            "B": "Er bat Polen und die polnischen Juden um Vergebung."
+        }
+    },
+    "Frage №182": {
+        "question": "Wie heißt das jüdische Gebetshaus?",
+        "image": null,
+        "options": {
+            "A": "Basilika",
+            "B": "Moschee",
+            "C": "Synagoge",
+            "D": "Kirche"
+        },
+        "correct_answer": {
+            "C": "Synagoge"
+        }
+    },
+    "Frage №183": {
+        "question": "Wann war in der Bundesrepublik Deutschland das „Wirtschaftswunder“?",
+        "image": null,
+        "options": {
+            "A": "40er Jahre",
+            "B": "50er Jahre",
+            "C": "70er Jahre",
+            "D": "80er Jahre"
+        },
+        "correct_answer": {
+            "B": "50er Jahre"
+        }
+    },
+    "Frage №184": {
+        "question": "Auf welcher rechtlichen Grundlage wurde der Staat Israel gegründet?",
+        "image": null,
+        "options": {
+            "A": "eine Resolution der Vereinten Nationen",
+            "B": "ein Beschluss des Zionistenkongresses",
+            "C": "ein Vorschlag der Bundesregierung",
+            "D": "ein Vorschlag der UdSSR"
+        },
+        "correct_answer": {
+            "A": "eine Resolution der Vereinten Nationen"
+        }
+    },
+    "Frage №185": {
+        "question": "Wofür stand der Ausdruck „Eiserner Vorhang“? Für die Abschottung …",
+        "image": null,
+        "options": {
+            "A": "des Warschauer Pakts gegen den Westen.",
+            "B": "Norddeutschlands gegen Süddeutschland.",
+            "C": "Nazi-Deutschlands gegen die Alliierten.",
+            "D": "Europas gegen die USA."
+        },
+        "correct_answer": {
+            "A": "des Warschauer Pakts gegen den Westen."
+        }
+    },
+    "Frage №186": {
+        "question": "Im Jahr 1953 gab es in der DDR einen Aufstand, an den lange Zeit in der Bundesrepublik Deutschland ein Feiertag erinnerte. Wann war das?",
+        "image": null,
+        "options": {
+            "A": "1. Mai",
+            "B": "17. Juni",
+            "C": "20. Juli",
+            "D": "9. November"
+        },
+        "correct_answer": {
+            "B": "17. Juni"
+        }
+    },
+    "Frage №187": {
+        "question": "Welcher deutsche Staat hatte eine schwarz-rot-goldene Flagge mit Hammer, Zirkel und Ährenkranz?",
+        "image": "https://www.lebenindeutschland.eu/img/questions/187.png",
+        "options": {
+            "A": "Preußen",
+            "B": "Bundesrepublik Deutschland",
+            "C": "DDR",
+            "D": "„Drittes Reich“"
+        },
+        "correct_answer": {
+            "C": "DDR"
+        }
+    },
+    "Frage №188": {
+        "question": "In welchem Jahr wurde die Mauer in Berlin gebaut?",
+        "image": null,
+        "options": {
+            "A": "1953",
+            "B": "1956",
+            "C": "1959",
+            "D": "1961"
+        },
+        "correct_answer": {
+            "D": "1961"
+        }
+    },
+    "Frage №189": {
+        "question": "Wann baute die DDR die Mauer in Berlin?",
+        "image": null,
+        "options": {
+            "A": "1919",
+            "B": "1933",
+            "C": "1961",
+            "D": "1990"
+        },
+        "correct_answer": {
+            "C": "1961"
+        }
+    },
+    "Frage №190": {
+        "question": "Was bedeutet die Abkürzung DDR?",
+        "image": null,
+        "options": {
+            "A": "Dritter Deutscher Rundfunk",
+            "B": "Die Deutsche Republik",
+            "C": "Dritte Deutsche Republik",
+            "D": "Deutsche Demokratische Republik"
+        },
+        "correct_answer": {
+            "D": "Deutsche Demokratische Republik"
+        }
+    },
+    "Frage №191": {
+        "question": "Wann wurde die Mauer in Berlin für alle geöffnet?",
+        "image": null,
+        "options": {
+            "A": "1987",
+            "B": "1989",
+            "C": "1992",
+            "D": "1995"
+        },
+        "correct_answer": {
+            "B": "1989"
+        }
+    },
+    "Frage №192": {
+        "question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+        "image": null,
+        "options": {
+            "A": "Brandenburg",
+            "B": "Bayern",
+            "C": "Saarland",
+            "D": "Hessen"
+        },
+        "correct_answer": {
+            "A": "Brandenburg"
+        }
+    },
+    "Frage №193": {
+        "question": "Von 1961 bis 1989 war Berlin …",
+        "image": null,
+        "options": {
+            "A": "ohne Bürgermeister.",
+            "B": "ein eigener Staat.",
+            "C": "durch eine Mauer geteilt.",
+            "D": "nur mit dem Flugzeug erreichbar."
+        },
+        "correct_answer": {
+            "C": "durch eine Mauer geteilt."
+        }
+    },
+    "Frage №194": {
+        "question": "Am 3. Oktober feiert man in Deutschland den Tag der Deutschen …",
+        "image": null,
+        "options": {
+            "A": "Einheit.",
+            "B": "Nation.",
+            "C": "Bundesländer.",
+            "D": "Städte."
+        },
+        "correct_answer": {
+            "A": "Einheit."
+        }
+    },
+    "Frage №195": {
+        "question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+        "image": null,
+        "options": {
+            "A": "Hessen",
+            "B": "Sachsen-Anhalt",
+            "C": "Nordrhein-Westfalen",
+            "D": "Saarland"
+        },
+        "correct_answer": {
+            "B": "Sachsen-Anhalt"
+        }
+    },
+    "Frage №196": {
+        "question": "Warum nennt man die Zeit im Herbst 1989 in der DDR „Die Wende“? In dieser Zeit veränderte sich die DDR politisch …",
+        "image": null,
+        "options": {
+            "A": "von einer Diktatur zur Demokratie.",
+            "B": "von einer liberalen Marktwirtschaft zum Sozialismus.",
+            "C": "von einer Monarchie zur Sozialdemokratie.",
+            "D": "von einem religiösen Staat zu einem kommunistischen Staat."
+        },
+        "correct_answer": {
+            "A": "von einer Diktatur zur Demokratie."
+        }
+    },
+    "Frage №197": {
+        "question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+        "image": null,
+        "options": {
+            "A": "Thüringen",
+            "B": "Hessen",
+            "C": "Bayern",
+            "D": "Bremen"
+        },
+        "correct_answer": {
+            "A": "Thüringen"
+        }
+    },
+    "Frage №198": {
+        "question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+        "image": null,
+        "options": {
+            "A": "Bayern",
+            "B": "Niedersachsen",
+            "C": "Sachsen",
+            "D": "Baden-Württemberg"
+        },
+        "correct_answer": {
+            "C": "Sachsen"
+        }
+    },
+    "Frage №199": {
+        "question": "Mit der Abkürzung „Stasi“ meinte man in der DDR …",
+        "image": null,
+        "options": {
+            "A": "das Parlament.",
+            "B": "das Ministerium für Staatssicherheit.",
+            "C": "eine regierende Partei.",
+            "D": "das Ministerium für Volksbildung."
+        },
+        "correct_answer": {
+            "B": "das Ministerium für Staatssicherheit."
+        }
+    },
+    "Frage №200": {
+        "question": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+        "image": null,
+        "options": {
+            "A": "Hessen",
+            "B": "Schleswig-Holstein",
+            "C": "Mecklenburg-Vorpommern",
+            "D": "Saarland"
+        },
+        "correct_answer": {
+            "C": "Mecklenburg-Vorpommern"
+        }
+    },
+    "Frage №201": {
+        "question": "Welche der folgenden Auflistungen enthält nur Bundesländer, die zum Gebiet der früheren DDR gehörten?",
+        "image": null,
+        "options": {
+            "A": "Niedersachsen, Nordrhein-Westfalen, Hessen, Schleswig-Holstein, Brandenburg",
+            "B": "Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen",
+            "C": "Bayern, Baden-Württemberg, Rheinland-Pfalz, Thüringen, Sachsen",
+            "D": "Sachsen, Thüringen, Hessen, Niedersachsen, Brandenburg"
+        },
+        "correct_answer": {
+            "B": "Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen"
+        }
+    },
+    "Frage №202": {
+        "question": "Zu wem gehörte die DDR im „Kalten Krieg“?",
+        "image": null,
+        "options": {
+            "A": "zu den Westmächten",
+            "B": "zum Warschauer Pakt",
+            "C": "zur NATO",
+            "D": "zu den blockfreien Staaten"
+        },
+        "correct_answer": {
+            "B": "zum Warschauer Pakt"
+        }
+    },
+    "Frage №203": {
+        "question": "Wie hieß das Wirtschaftssystem der DDR?",
+        "image": null,
+        "options": {
+            "A": "Marktwirtschaft",
+            "B": "Planwirtschaft",
+            "C": "Angebot und Nachfrage",
+            "D": "Kapitalismus"
+        },
+        "correct_answer": {
+            "B": "Planwirtschaft"
+        }
+    },
+    "Frage №204": {
+        "question": "Wie wurden die Bundesrepublik Deutschland und die DDR zu einem Staat?",
+        "image": null,
+        "options": {
+            "A": "Die Bundesrepublik Deutschland hat die DDR besetzt.",
+            "B": "Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten.",
+            "C": "Die westlichen Bundesländer sind der DDR beigetreten.",
+            "D": "Die DDR hat die Bundesrepublik Deutschland besetzt."
+        },
+        "correct_answer": {
+            "B": "Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten."
+        }
+    },
+    "Frage №205": {
+        "question": "Mit dem Beitritt der DDR zur Bundesrepublik Deutschland gehören die neuen Bundesländer nun auch …",
+        "image": null,
+        "options": {
+            "A": "zur Europäischen Union.",
+            "B": "zum Warschauer Pakt.",
+            "C": "zur OPEC.",
+            "D": "zur Europäischen Verteidigungsgemeinschaft."
+        },
+        "correct_answer": {
+            "A": "zur Europäischen Union."
+        }
+    },
+    "Frage №206": {
+        "question": "Woran erinnern die sogenannten „Stolpersteine“ in Deutschland?",
+        "image": null,
+        "options": {
+            "A": "an berühmte deutsche Politikerinnen und Politiker",
+            "B": "an die Opfer des Nationalsozialismus",
+            "C": "an Verkehrstote",
+            "D": "an bekannte jüdische Musiker"
+        },
+        "correct_answer": {
+            "B": "an die Opfer des Nationalsozialismus"
+        }
+    },
+    "Frage №207": {
+        "question": "In welchem Militärbündnis war die DDR Mitglied?",
+        "image": null,
+        "options": {
+            "A": "in der NATO",
+            "B": "im Rheinbund",
+            "C": "im Warschauer Pakt",
+            "D": "im Europabündnis"
+        },
+        "correct_answer": {
+            "C": "im Warschauer Pakt"
+        }
+    },
+    "Frage №208": {
+        "question": "Was war die „Stasi“?",
+        "image": null,
+        "options": {
+            "A": "der Geheimdienst im „Dritten Reich“",
+            "B": "eine berühmte deutsche Gedenkstätte",
+            "C": "der Geheimdienst der DDR",
+            "D": "ein deutscher Sportverein während des Zweiten Weltkrieges"
+        },
+        "correct_answer": {
+            "C": "der Geheimdienst der DDR"
+        }
+    },
+    "Frage №209": {
+        "question": "Welches war das Wappen der Deutschen Demokratischen Republik?",
+        "image": "https://www.lebenindeutschland.eu/img/questions/209.png",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": {
+            "D": "4"
+        }
+    },
+    "Frage №210": {
+        "question": "Was ereignete sich am 17. Juni 1953 in der DDR?",
+        "image": null,
+        "options": {
+            "A": "der feierliche Beitritt zum Warschauer Pakt",
+            "B": "landesweite Streiks und ein Volksaufstand",
+            "C": "der 1. SED-Parteitag",
+            "D": "der erste Besuch Fidel Castros"
+        },
+        "correct_answer": {
+            "B": "landesweite Streiks und ein Volksaufstand"
+        }
+    }
+}

@@ -1,0 +1,392 @@
+{
+    "Frage №121": {
+        "question": "Eine Partei möchte in den Deutschen Bundestag. Sie muss aber einen Mindestanteil an Wählerstimmen haben. Das heißt …",
+        "image": null,
+        "options": {
+            "A": "5 %-Hürde.",
+            "B": "Zulassungsgrenze.",
+            "C": "Basiswert.",
+            "D": "Richtlinie."
+        },
+        "correct_answer": {
+            "A": "5 %-Hürde."
+        }
+    },
+    "Frage №122": {
+        "question": "Welchem Grundsatz unterliegen Wahlen in Deutschland? Wahlen in Deutschland sind …",
+        "image": null,
+        "options": {
+            "A": "frei, gleich, geheim.",
+            "B": "offen, sicher, frei.",
+            "C": "geschlossen, gleich, sicher.",
+            "D": "sicher, offen, freiwillig."
+        },
+        "correct_answer": {
+            "A": "frei, gleich, geheim."
+        }
+    },
+    "Frage №123": {
+        "question": "Was ist in Deutschland die „5 %-Hürde“?",
+        "image": null,
+        "options": {
+            "A": "Abstimmungsregelung im Bundestag für kleine Parteien",
+            "B": "Anwesenheitskontrolle im Bundestag für Abstimmungen",
+            "C": "Mindestanteil an Wählerstimmen, um ins Parlament zu kommen",
+            "D": "Anwesenheitskontrolle im Bundesrat für Abstimmungen"
+        },
+        "correct_answer": {
+            "C": "Mindestanteil an Wählerstimmen, um ins Parlament zu kommen"
+        }
+    },
+    "Frage №124": {
+        "question": "Die Bundestagswahl in Deutschland ist die Wahl …",
+        "image": null,
+        "options": {
+            "A": "des Bundeskanzlers / der Bundeskanzlerin.",
+            "B": "der Parlamente der Länder.",
+            "C": "des Parlaments für Deutschland.",
+            "D": "des Bundespräsidenten / der Bundespräsidentin."
+        },
+        "correct_answer": {
+            "C": "des Parlaments für Deutschland."
+        }
+    },
+    "Frage №125": {
+        "question": "In einer Demokratie ist eine Funktion von regelmäßigen Wahlen, …",
+        "image": null,
+        "options": {
+            "A": "die Bürger und Bürgerinnen zu zwingen, ihre Stimme abzugeben.",
+            "B": "nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.",
+            "C": "im Land bestehende Gesetze beizubehalten.",
+            "D": "den Armen mehr Macht zu geben."
+        },
+        "correct_answer": {
+            "B": "nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen."
+        }
+    },
+    "Frage №126": {
+        "question": "Was bekommen wahlberechtigte Bürger und Bürgerinnen in Deutschland vor einer Wahl?",
+        "image": null,
+        "options": {
+            "A": "eine Wahlbenachrichtigung von der Gemeinde",
+            "B": "eine Wahlerlaubnis vom Bundespräsidenten / von der Bundespräsidentin",
+            "C": "eine Benachrichtigung von der Bundesversammlung",
+            "D": "eine Benachrichtigung vom Pfarramt"
+        },
+        "correct_answer": {
+            "A": "eine Wahlbenachrichtigung von der Gemeinde"
+        }
+    },
+    "Frage №127": {
+        "question": "Warum gibt es die 5 %-Hürde im Wahlgesetz der Bundesrepublik Deutschland? Es gibt sie, weil …",
+        "image": null,
+        "options": {
+            "A": "die Programme von vielen kleinen Parteien viele Gemeinsamkeiten haben.",
+            "B": "die Bürger und Bürgerinnen bei vielen kleinen Parteien die Orientierung verlieren können.",
+            "C": "viele kleine Parteien die Regierungsbildung erschweren.",
+            "D": "die kleinen Parteien nicht so viel Geld haben, um die Politiker und Politikerinnen zu bezahlen."
+        },
+        "correct_answer": {
+            "C": "viele kleine Parteien die Regierungsbildung erschweren."
+        }
+    },
+    "Frage №128": {
+        "question": "Parlamentsmitglieder, die von den Bürgern und Bürgerinnen gewählt werden, nennt man …",
+        "image": null,
+        "options": {
+            "A": "Abgeordnete.",
+            "B": "Kanzler / Kanzlerinnen.",
+            "C": "Botschafter / Botschafterinnen.",
+            "D": "Ministerpräsidenten / Ministerpräsidentinnen."
+        },
+        "correct_answer": {
+            "A": "Abgeordnete."
+        }
+    },
+    "Frage №129": {
+        "question": "Vom Volk gewählt wird in Deutschland …",
+        "image": null,
+        "options": {
+            "A": "der Bundeskanzler / die Bundeskanzlerin.",
+            "B": "der Ministerpräsident / die Ministerpräsidentin eines Bundeslandes.",
+            "C": "der Bundestag.",
+            "D": "der Bundespräsident / die Bundespräsidentin."
+        },
+        "correct_answer": {
+            "C": "der Bundestag."
+        }
+    },
+    "Frage №130": {
+        "question": "Welcher Stimmzettel wäre bei einer Bundestagswahl gültig?",
+        "image": "https://www.lebenindeutschland.eu/img/questions/130.png",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": {
+            "A": "1"
+        }
+    },
+    "Frage №131": {
+        "question": "In Deutschland ist ein Bürgermeister / eine Bürgermeisterin …",
+        "image": null,
+        "options": {
+            "A": "der Leiter / die Leiterin einer Schule.",
+            "B": "der Chef / die Chefin einer Bank.",
+            "C": "das Oberhaupt einer Gemeinde.",
+            "D": "der / die Vorsitzende einer Partei."
+        },
+        "correct_answer": {
+            "C": "das Oberhaupt einer Gemeinde."
+        }
+    },
+    "Frage №132": {
+        "question": "Viele Menschen in Deutschland arbeiten in ihrer Freizeit ehrenamtlich. Was bedeutet das?",
+        "image": null,
+        "options": {
+            "A": "Sie arbeiten als Soldaten / Soldatinnen.",
+            "B": "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden.",
+            "C": "Sie arbeiten in der Bundesregierung.",
+            "D": "Sie arbeiten in einem Krankenhaus und verdienen dabei Geld."
+        },
+        "correct_answer": {
+            "B": "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden."
+        }
+    },
+    "Frage №133": {
+        "question": "Was ist bei Bundestags- und Landtagswahlen in Deutschland erlaubt?",
+        "image": null,
+        "options": {
+            "A": "Der Ehemann wählt für seine Frau mit.",
+            "B": "Man kann durch Briefwahl seine Stimme abgeben.",
+            "C": "Man kann am Wahltag telefonisch seine Stimme abgeben.",
+            "D": "Kinder ab dem Alter von 14 Jahren dürfen wählen."
+        },
+        "correct_answer": {
+            "B": "Man kann durch Briefwahl seine Stimme abgeben."
+        }
+    },
+    "Frage №134": {
+        "question": "Man will die Buslinie abschaffen, mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu erhalten?",
+        "image": null,
+        "options": {
+            "A": "Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.",
+            "B": "Ich werde Mitglied in einem Sportverein und trainiere Radfahren.",
+            "C": "Ich wende mich an das Finanzamt, weil ich als Steuerzahler / Steuerzahlerin ein Recht auf die Buslinie habe.",
+            "D": "Ich schreibe einen Brief an das Forstamt der Gemeinde."
+        },
+        "correct_answer": {
+            "A": "Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative."
+        }
+    },
+    "Frage №135": {
+        "question": "Wen vertreten die Gewerkschaften in Deutschland?",
+        "image": null,
+        "options": {
+            "A": "große Unternehmen",
+            "B": "kleine Unternehmen",
+            "C": "Selbständige",
+            "D": "Arbeitnehmer und Arbeitnehmerinnen"
+        },
+        "correct_answer": {
+            "D": "Arbeitnehmer und Arbeitnehmerinnen"
+        }
+    },
+    "Frage №136": {
+        "question": "Sie gehen in Deutschland zum Arbeitsgericht bei …",
+        "image": null,
+        "options": {
+            "A": "falscher Nebenkostenabrechnung.",
+            "B": "ungerechtfertigter Kündigung durch Ihren Chef / Ihre Chefin.",
+            "C": "Problemen mit den Nachbarn / Nachbarinnen.",
+            "D": "Schwierigkeiten nach einem Verkehrsunfall."
+        },
+        "correct_answer": {
+            "B": "ungerechtfertigter Kündigung durch Ihren Chef / Ihre Chefin."
+        }
+    },
+    "Frage №137": {
+        "question": "Welches Gericht ist in Deutschland bei Konflikten in der Arbeitswelt zuständig?",
+        "image": null,
+        "options": {
+            "A": "das Familiengericht",
+            "B": "das Strafgericht",
+            "C": "das Arbeitsgericht",
+            "D": "das Amtsgericht"
+        },
+        "correct_answer": {
+            "C": "das Arbeitsgericht"
+        }
+    },
+    "Frage №138": {
+        "question": "Was kann ich in Deutschland machen, wenn mir mein Arbeitgeber / meine Arbeitgeberin zu Unrecht gekündigt hat?",
+        "image": null,
+        "options": {
+            "A": "weiter arbeiten und freundlich zum Chef / zur Chefin sein",
+            "B": "ein Mahnverfahren gegen den Arbeitgeber / die Arbeitgeberin führen",
+            "C": "Kündigungsschutzklage erheben",
+            "D": "den Arbeitgeber / die Arbeitgeberin bei der Polizei anzeigen"
+        },
+        "correct_answer": {
+            "C": "Kündigungsschutzklage erheben"
+        }
+    },
+    "Frage №139": {
+        "question": "Wann kommt es in Deutschland zu einem Prozess vor Gericht? Wenn jemand …",
+        "image": null,
+        "options": {
+            "A": "zu einer anderen Religion übertritt.",
+            "B": "eine Straftat begangen hat und angeklagt wird.",
+            "C": "eine andere Meinung als die der Regierung vertritt.",
+            "D": "sein Auto falsch geparkt hat und es abgeschleppt wird."
+        },
+        "correct_answer": {
+            "B": "eine Straftat begangen hat und angeklagt wird."
+        }
+    },
+    "Frage №140": {
+        "question": "Was macht ein Schöffe / eine Schöffin in Deutschland? Er / Sie …",
+        "image": null,
+        "options": {
+            "A": "entscheidet mit Richtern / Richterinnen über Schuld und Strafe.",
+            "B": "gibt Bürgern / Bürgerinnen rechtlichen Rat.",
+            "C": "stellt Urkunden aus.",
+            "D": "verteidigt den Angeklagten / die Angeklagte."
+        },
+        "correct_answer": {
+            "A": "entscheidet mit Richtern / Richterinnen über Schuld und Strafe."
+        }
+    },
+    "Frage №141": {
+        "question": "Wer berät in Deutschland Personen bei Rechtsfragen und vertritt sie vor Gericht?",
+        "image": null,
+        "options": {
+            "A": "ein Rechtsanwalt / eine Rechtsanwältin",
+            "B": "ein Richter / eine Richterin",
+            "C": "ein Schöffe / eine Schöffin",
+            "D": "ein Staatsanwalt / eine Staatsanwältin"
+        },
+        "correct_answer": {
+            "A": "ein Rechtsanwalt / eine Rechtsanwältin"
+        }
+    },
+    "Frage №142": {
+        "question": "Was ist die Hauptaufgabe eines Richters / einer Richterin in Deutschland? Ein Richter / eine Richterin …",
+        "image": null,
+        "options": {
+            "A": "vertritt Bürger und Bürgerinnen vor einem Gericht.",
+            "B": "arbeitet an einem Gericht und spricht Urteile.",
+            "C": "ändert Gesetze.",
+            "D": "betreut Jugendliche vor Gericht."
+        },
+        "correct_answer": {
+            "B": "arbeitet an einem Gericht und spricht Urteile."
+        }
+    },
+    "Frage №143": {
+        "question": "Ein Richter / eine Richterin in Deutschland gehört zur …",
+        "image": null,
+        "options": {
+            "A": "Judikative.",
+            "B": "Exekutive.",
+            "C": "Operative.",
+            "D": "Legislative."
+        },
+        "correct_answer": {
+            "A": "Judikative."
+        }
+    },
+    "Frage №144": {
+        "question": "Ein Richter / eine Richterin gehört in Deutschland zur …",
+        "image": null,
+        "options": {
+            "A": "vollziehenden Gewalt.",
+            "B": "rechtsprechenden Gewalt.",
+            "C": "planenden Gewalt.",
+            "D": "gesetzgebenden Gewalt."
+        },
+        "correct_answer": {
+            "B": "rechtsprechenden Gewalt."
+        }
+    },
+    "Frage №145": {
+        "question": "In Deutschland wird die Staatsgewalt geteilt. Für welche Staatsgewalt arbeitet ein Richter / eine Richterin? Für die …",
+        "image": null,
+        "options": {
+            "A": "Judikative.",
+            "B": "Exekutive.",
+            "C": "Presse.",
+            "D": "Legislative."
+        },
+        "correct_answer": {
+            "A": "Judikative."
+        }
+    },
+    "Frage №146": {
+        "question": "Wie nennt man in Deutschland ein Verfahren vor einem Gericht?",
+        "image": null,
+        "options": {
+            "A": "Programm",
+            "B": "Prozedur",
+            "C": "Protokoll",
+            "D": "Prozess"
+        },
+        "correct_answer": {
+            "D": "Prozess"
+        }
+    },
+    "Frage №147": {
+        "question": "Was ist die Arbeit eines Richters / einer Richterin in Deutschland?",
+        "image": null,
+        "options": {
+            "A": "Deutschland regieren",
+            "B": "Recht sprechen",
+            "C": "Pläne erstellen",
+            "D": "Gesetze erlassen"
+        },
+        "correct_answer": {
+            "B": "Recht sprechen"
+        }
+    },
+    "Frage №148": {
+        "question": "Was ist eine Aufgabe der Polizei in Deutschland?",
+        "image": null,
+        "options": {
+            "A": "das Land zu verteidigen",
+            "B": "die Bürgerinnen und Bürger abzuhören",
+            "C": "die Gesetze zu beschließen",
+            "D": "die Einhaltung von Gesetzen zu überwachen"
+        },
+        "correct_answer": {
+            "D": "die Einhaltung von Gesetzen zu überwachen"
+        }
+    },
+    "Frage №149": {
+        "question": "Was ist ein Beispiel für antisemitisches Verhalten?",
+        "image": null,
+        "options": {
+            "A": "ein jüdisches Fest besuchen",
+            "B": "die israelische Regierung kritisieren",
+            "C": "den Holocaust leugnen",
+            "D": "gegen Juden Fußball spielen"
+        },
+        "correct_answer": {
+            "C": "den Holocaust leugnen"
+        }
+    },
+    "Frage №150": {
+        "question": "Ein Gerichtsschöffe / eine Gerichtsschöffin in Deutschland ist …",
+        "image": null,
+        "options": {
+            "A": "der Stellvertreter / die Stellvertreterin des Stadtoberhaupts.",
+            "B": "ein ehrenamtlicher Richter / eine ehrenamtliche Richterin.",
+            "C": "ein Mitglied eines Gemeinderats.",
+            "D": "eine Person, die Jura studiert hat."
+        },
+        "correct_answer": {
+            "B": "ein ehrenamtlicher Richter / eine ehrenamtliche Richterin."
+        }
+    }
+}

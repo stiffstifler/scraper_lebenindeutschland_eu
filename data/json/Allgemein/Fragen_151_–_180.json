@@ -1,0 +1,392 @@
+{
+    "Frage №151": {
+        "question": "Wer baute die Mauer in Berlin?",
+        "image": null,
+        "options": {
+            "A": "Großbritannien",
+            "B": "die Bundesrepublik Deutschland",
+            "C": "die DDR",
+            "D": "die USA"
+        },
+        "correct_answer": {
+            "C": "die DDR"
+        }
+    },
+    "Frage №152": {
+        "question": "Wann waren die Nationalsozialisten mit Adolf Hitler in Deutschland an der Macht?",
+        "image": null,
+        "options": {
+            "A": "1918 bis 1923",
+            "B": "1932 bis 1950",
+            "C": "1933 bis 1945",
+            "D": "1945 bis 1989"
+        },
+        "correct_answer": {
+            "C": "1933 bis 1945"
+        }
+    },
+    "Frage №153": {
+        "question": "Was war am 8. Mai 1945?",
+        "image": null,
+        "options": {
+            "A": "Tod Adolf Hitlers",
+            "B": "Beginn des Berliner Mauerbaus",
+            "C": "Wahl von Konrad Adenauer zum Bundeskanzler",
+            "D": "Ende des Zweiten Weltkriegs in Europa"
+        },
+        "correct_answer": {
+            "D": "Ende des Zweiten Weltkriegs in Europa"
+        }
+    },
+    "Frage №154": {
+        "question": "Wann war der Zweite Weltkrieg zu Ende?",
+        "image": null,
+        "options": {
+            "A": "1933",
+            "B": "1945",
+            "C": "1949",
+            "D": "1961"
+        },
+        "correct_answer": {
+            "B": "1945"
+        }
+    },
+    "Frage №155": {
+        "question": "Wann waren die Nationalsozialisten in Deutschland an der Macht?",
+        "image": null,
+        "options": {
+            "A": "1888 bis 1918",
+            "B": "1921 bis 1934",
+            "C": "1933 bis 1945",
+            "D": "1949 bis 1963"
+        },
+        "correct_answer": {
+            "C": "1933 bis 1945"
+        }
+    },
+    "Frage №156": {
+        "question": "In welchem Jahr wurde Hitler Reichskanzler?",
+        "image": null,
+        "options": {
+            "A": "1923",
+            "B": "1927",
+            "C": "1933",
+            "D": "1936"
+        },
+        "correct_answer": {
+            "C": "1933"
+        }
+    },
+    "Frage №157": {
+        "question": "Die Nationalsozialisten mit Adolf Hitler errichteten 1933 in Deutschland …",
+        "image": null,
+        "options": {
+            "A": "eine Diktatur.",
+            "B": "einen demokratischen Staat.",
+            "C": "eine Monarchie.",
+            "D": "ein Fürstentum."
+        },
+        "correct_answer": {
+            "A": "eine Diktatur."
+        }
+    },
+    "Frage №158": {
+        "question": "Das „Dritte Reich“ war eine …",
+        "image": null,
+        "options": {
+            "A": "Diktatur.",
+            "B": "Demokratie.",
+            "C": "Monarchie.",
+            "D": "Räterepublik."
+        },
+        "correct_answer": {
+            "A": "Diktatur."
+        }
+    },
+    "Frage №159": {
+        "question": "Was gab es in Deutschland nicht während der Zeit des Nationalsozialismus?",
+        "image": null,
+        "options": {
+            "A": "freie Wahlen",
+            "B": "Pressezensur",
+            "C": "willkürliche Verhaftungen",
+            "D": "Verfolgung der Juden"
+        },
+        "correct_answer": {
+            "A": "freie Wahlen"
+        }
+    },
+    "Frage №160": {
+        "question": "Welcher Krieg dauerte von 1939 bis 1945?",
+        "image": null,
+        "options": {
+            "A": "der Erste Weltkrieg",
+            "B": "der Zweite Weltkrieg",
+            "C": "der Vietnamkrieg",
+            "D": "der Golfkrieg"
+        },
+        "correct_answer": {
+            "B": "der Zweite Weltkrieg"
+        }
+    },
+    "Frage №161": {
+        "question": "Was kennzeichnete den NS-Staat? Eine Politik …",
+        "image": null,
+        "options": {
+            "A": "des staatlichen Rassismus",
+            "B": "der Meinungsfreiheit",
+            "C": "der allgemeinen Religionsfreiheit",
+            "D": "der Entwicklung der Demokratie"
+        },
+        "correct_answer": {
+            "A": "des staatlichen Rassismus"
+        }
+    },
+    "Frage №162": {
+        "question": "Claus Schenk Graf von Stauffenberg wurde bekannt durch …",
+        "image": null,
+        "options": {
+            "A": "eine Goldmedaille bei den Olympischen Spielen 1936.",
+            "B": "den Bau des Reichstagsgebäudes.",
+            "C": "den Aufbau der Wehrmacht.",
+            "D": "das Attentat auf Hitler am 20. Juli 1944."
+        },
+        "correct_answer": {
+            "D": "das Attentat auf Hitler am 20. Juli 1944."
+        }
+    },
+    "Frage №163": {
+        "question": "In welchem Jahr zerstörten die Nationalsozialisten Synagogen und jüdische Geschäfte in Deutschland?",
+        "image": null,
+        "options": {
+            "A": "1925",
+            "B": "1930",
+            "C": "1938",
+            "D": "1945"
+        },
+        "correct_answer": {
+            "C": "1938"
+        }
+    },
+    "Frage №164": {
+        "question": "Was passierte am 9. November 1938 in Deutschland?",
+        "image": null,
+        "options": {
+            "A": "Mit dem Angriff auf Polen beginnt der Zweite Weltkrieg.",
+            "B": "Die Nationalsozialisten verlieren eine Wahl und lösen den Reichstag auf.",
+            "C": "Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört.",
+            "D": "Hitler wird Reichspräsident und lässt alle Parteien verbieten."
+        },
+        "correct_answer": {
+            "C": "Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört."
+        }
+    },
+    "Frage №165": {
+        "question": "Wie hieß der erste Bundeskanzler der Bundesrepublik Deutschland?",
+        "image": null,
+        "options": {
+            "A": "Konrad Adenauer",
+            "B": "Kurt Georg Kiesinger",
+            "C": "Helmut Schmidt",
+            "D": "Willy Brandt"
+        },
+        "correct_answer": {
+            "A": "Konrad Adenauer"
+        }
+    },
+    "Frage №166": {
+        "question": "Bei welchen Demonstrationen in Deutschland riefen die Menschen „Wir sind das Volk“?",
+        "image": null,
+        "options": {
+            "A": "bei den Montagsdemonstrationen 1989 in der DDR",
+            "B": "beim Arbeiteraufstand 1953 in der DDR",
+            "C": "bei den Demonstrationen 1968 in der Bundesrepublik Deutschland",
+            "D": "bei den Anti-Atomkraft-Demonstrationen 1985 in der Bundesrepublik Deutschland"
+        },
+        "correct_answer": {
+            "A": "bei den Montagsdemonstrationen 1989 in der DDR"
+        }
+    },
+    "Frage №167": {
+        "question": "Welche Länder wurden nach dem Zweiten Weltkrieg in Deutschland als „Alliierte Besatzungsmächte“ bezeichnet?",
+        "image": null,
+        "options": {
+            "A": "Sowjetunion, Großbritannien, Polen, Schweden",
+            "B": "Frankreich, Sowjetunion, Italien, Japan",
+            "C": "USA, Sowjetunion, Spanien, Portugal",
+            "D": "USA, Sowjetunion, Großbritannien, Frankreich"
+        },
+        "correct_answer": {
+            "D": "USA, Sowjetunion, Großbritannien, Frankreich"
+        }
+    },
+    "Frage №168": {
+        "question": "Welches Land war keine „Alliierte Besatzungsmacht“ in Deutschland?",
+        "image": null,
+        "options": {
+            "A": "USA",
+            "B": "Sowjetunion",
+            "C": "Frankreich",
+            "D": "Japan"
+        },
+        "correct_answer": {
+            "D": "Japan"
+        }
+    },
+    "Frage №169": {
+        "question": "Wann wurde die Bundesrepublik Deutschland gegründet?",
+        "image": null,
+        "options": {
+            "A": "1939",
+            "B": "1945",
+            "C": "1949",
+            "D": "1951"
+        },
+        "correct_answer": {
+            "C": "1949"
+        }
+    },
+    "Frage №170": {
+        "question": "Was gab es während der Zeit des Nationalsozialismus in Deutschland?",
+        "image": null,
+        "options": {
+            "A": "das Recht zur freien Entfaltung der Persönlichkeit",
+            "B": "Pressefreiheit",
+            "C": "das Verbot von Parteien",
+            "D": "den Schutz der Menschenwürde"
+        },
+        "correct_answer": {
+            "C": "das Verbot von Parteien"
+        }
+    },
+    "Frage №171": {
+        "question": "Soziale Marktwirtschaft bedeutet, die Wirtschaft …",
+        "image": null,
+        "options": {
+            "A": "steuert sich allein nach Angebot und Nachfrage.",
+            "B": "wird vom Staat geplant und gesteuert, Angebot und Nachfrage werden nicht berücksichtigt.",
+            "C": "richtet sich nach der Nachfrage im Ausland.",
+            "D": "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich."
+        },
+        "correct_answer": {
+            "D": "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich."
+        }
+    },
+    "Frage №172": {
+        "question": "In welcher Besatzungszone wurde die DDR gegründet? In der …",
+        "image": null,
+        "options": {
+            "A": "amerikanischen Besatzungszone.",
+            "B": "französischen Besatzungszone.",
+            "C": "britischen Besatzungszone.",
+            "D": "sowjetischen Besatzungszone."
+        },
+        "correct_answer": {
+            "D": "sowjetischen Besatzungszone."
+        }
+    },
+    "Frage №173": {
+        "question": "Die Bundesrepublik Deutschland ist ein Gründungsmitglied …",
+        "image": null,
+        "options": {
+            "A": "des Nordatlantikpakts (NATO).",
+            "B": "der Vereinten Nationen (VN).",
+            "C": "der Europäischen Union (EU).",
+            "D": "des Warschauer Pakts."
+        },
+        "correct_answer": {
+            "C": "der Europäischen Union (EU)."
+        }
+    },
+    "Frage №174": {
+        "question": "Wann wurde die DDR gegründet?",
+        "image": null,
+        "options": {
+            "A": "1947",
+            "B": "1949",
+            "C": "1953",
+            "D": "1956"
+        },
+        "correct_answer": {
+            "B": "1949"
+        }
+    },
+    "Frage №175": {
+        "question": "Wie viele Besatzungszonen gab es in Deutschland nach dem Zweiten Weltkrieg?",
+        "image": null,
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+        },
+        "correct_answer": {
+            "B": "4"
+        }
+    },
+    "Frage №176": {
+        "question": "Wie waren die Besatzungszonen Deutschlands nach 1945 verteilt?",
+        "image": "https://www.lebenindeutschland.eu/img/questions/176.png",
+        "options": {
+            "A": "1=Großbritannien, 2=Sowjetunion, 3=Frankreich, 4=USA",
+            "B": "1=Sowjetunion, 2=Großbritannien, 3=USA, 4=Frankreich",
+            "C": "1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich",
+            "D": "1=Großbritannien, 2=USA, 3=Sowjetunion, 4=Frankreich"
+        },
+        "correct_answer": {
+            "C": "1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich"
+        }
+    },
+    "Frage №177": {
+        "question": "Welche deutsche Stadt wurde nach dem Zweiten Weltkrieg in vier Sektoren aufgeteilt?",
+        "image": null,
+        "options": {
+            "A": "München",
+            "B": "Berlin",
+            "C": "Dresden",
+            "D": "Frankfurt/Oder"
+        },
+        "correct_answer": {
+            "B": "Berlin"
+        }
+    },
+    "Frage №178": {
+        "question": "Vom Juni 1948 bis zum Mai 1949 wurden die Bürger und Bürgerinnen von West-Berlin durch eine Luftbrücke versorgt. Welcher Umstand war dafür verantwortlich?",
+        "image": null,
+        "options": {
+            "A": "Für Frankreich war eine Versorgung der West-Berliner Bevölkerung mit dem Flugzeug kostengünstiger.",
+            "B": "Die amerikanischen Soldaten / Soldatinnen hatten beim Landtransport Angst vor Überfällen.",
+            "C": "Für Großbritannien war die Versorgung über die Luftbrücke schneller.",
+            "D": "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege."
+        },
+        "correct_answer": {
+            "D": "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege."
+        }
+    },
+    "Frage №179": {
+        "question": "Wie endete der Zweite Weltkrieg in Europa offiziell?",
+        "image": null,
+        "options": {
+            "A": "mit dem Tod Adolf Hitlers",
+            "B": "durch die bedingungslose Kapitulation Deutschlands",
+            "C": "mit dem Rückzug der Deutschen aus den besetzten Gebieten",
+            "D": "durch eine Revolution in Deutschland"
+        },
+        "correct_answer": {
+            "B": "durch die bedingungslose Kapitulation Deutschlands"
+        }
+    },
+    "Frage №180": {
+        "question": "Der erste Bundeskanzler der Bundesrepublik Deutschland war …",
+        "image": null,
+        "options": {
+            "A": "Ludwig Erhard.",
+            "B": "Willy Brandt.",
+            "C": "Konrad Adenauer.",
+            "D": "Gerhard Schröder."
+        },
+        "correct_answer": {
+            "C": "Konrad Adenauer."
+        }
+    }
+}

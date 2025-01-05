@@ -1,0 +1,32 @@
+{
+    "Allgemein": {
+        "Fragen_1_–_30": "https://www.lebenindeutschland.eu/fragenkatalog/1",
+        "Fragen_31_–_60": "https://www.lebenindeutschland.eu/fragenkatalog/2",
+        "Fragen_61_–_90": "https://www.lebenindeutschland.eu/fragenkatalog/3",
+        "Fragen_91_–_120": "https://www.lebenindeutschland.eu/fragenkatalog/4",
+        "Fragen_121_–_150": "https://www.lebenindeutschland.eu/fragenkatalog/5",
+        "Fragen_151_–_180": "https://www.lebenindeutschland.eu/fragenkatalog/6",
+        "Fragen_181_–_210": "https://www.lebenindeutschland.eu/fragenkatalog/7",
+        "Fragen_211_–_240": "https://www.lebenindeutschland.eu/fragenkatalog/8",
+        "Fragen_241_–_270": "https://www.lebenindeutschland.eu/fragenkatalog/9",
+        "Fragen_271_–_300": "https://www.lebenindeutschland.eu/fragenkatalog/10"
+    },
+    "Bundesland": {
+        "Baden-Württemberg": "https://www.lebenindeutschland.eu/fragenkatalog/bw",
+        "Bayern": "https://www.lebenindeutschland.eu/fragenkatalog/by",
+        "Berlin": "https://www.lebenindeutschland.eu/fragenkatalog/be",
+        "Brandenburg": "https://www.lebenindeutschland.eu/fragenkatalog/bb",
+        "Bremen": "https://www.lebenindeutschland.eu/fragenkatalog/hb",
+        "Hamburg": "https://www.lebenindeutschland.eu/fragenkatalog/hh",
+        "Hessen": "https://www.lebenindeutschland.eu/fragenkatalog/he",
+        "Mecklenburg-Vorpommern": "https://www.lebenindeutschland.eu/fragenkatalog/mv",
+        "Niedersachsen": "https://www.lebenindeutschland.eu/fragenkatalog/ni",
+        "Nordrhein-Westfalen": "https://www.lebenindeutschland.eu/fragenkatalog/nw",
+        "Rheinland-Pfalz": "https://www.lebenindeutschland.eu/fragenkatalog/rp",
+        "Saarland": "https://www.lebenindeutschland.eu/fragenkatalog/sl",
+        "Sachsen": "https://www.lebenindeutschland.eu/fragenkatalog/sn",
+        "Sachsen-Anhalt": "https://www.lebenindeutschland.eu/fragenkatalog/st",
+        "Schleswig-Holstein": "https://www.lebenindeutschland.eu/fragenkatalog/sh",
+        "Thüringen": "https://www.lebenindeutschland.eu/fragenkatalog/th"
+    }
+}

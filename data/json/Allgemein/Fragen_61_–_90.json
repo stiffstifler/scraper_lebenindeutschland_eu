@@ -1,0 +1,392 @@
+{
+    "Frage №61": {
+        "question": "Was bedeutet „Volkssouveränität“?",
+        "image": null,
+        "options": {
+            "A": "Der König / die Königin herrscht über das Volk.",
+            "B": "Das Bundesverfassungsgericht steht über der Verfassung.",
+            "C": "Die Interessenverbände üben die Souveränität zusammen mit der Regierung aus.",
+            "D": "Die Staatsgewalt geht vom Volke aus."
+        },
+        "correct_answer": {
+            "D": "Die Staatsgewalt geht vom Volke aus."
+        }
+    },
+    "Frage №62": {
+        "question": "Wenn das Parlament eines deutschen Bundeslandes gewählt wird, nennt man das …",
+        "image": null,
+        "options": {
+            "A": "Kommunalwahl.",
+            "B": "Landtagswahl.",
+            "C": "Europawahl.",
+            "D": "Bundestagswahl."
+        },
+        "correct_answer": {
+            "B": "Landtagswahl."
+        }
+    },
+    "Frage №63": {
+        "question": "Was gehört in Deutschland nicht zur Exekutive?",
+        "image": null,
+        "options": {
+            "A": "die Polizei",
+            "B": "die Gerichte",
+            "C": "das Finanzamt",
+            "D": "die Ministerien"
+        },
+        "correct_answer": {
+            "B": "die Gerichte"
+        }
+    },
+    "Frage №64": {
+        "question": "Die Bundesrepublik Deutschland ist heute gegliedert in …",
+        "image": null,
+        "options": {
+            "A": "vier Besatzungszonen.",
+            "B": "einen Oststaat und einen Weststaat.",
+            "C": "16 Kantone.",
+            "D": "Bund, Länder und Kommunen."
+        },
+        "correct_answer": {
+            "D": "Bund, Länder und Kommunen."
+        }
+    },
+    "Frage №65": {
+        "question": "Es gehört nicht zu den Aufgaben des Deutschen Bundestages, …",
+        "image": null,
+        "options": {
+            "A": "Gesetze zu entwerfen.",
+            "B": "die Bundesregierung zu kontrollieren.",
+            "C": "den Bundeskanzler / die Bundeskanzlerin zu wählen.",
+            "D": "das Bundeskabinett zu bilden."
+        },
+        "correct_answer": {
+            "D": "das Bundeskabinett zu bilden."
+        }
+    },
+    "Frage №66": {
+        "question": "Welche Städte haben die größten jüdischen Gemeinden in Deutschland?",
+        "image": null,
+        "options": {
+            "A": "Berlin und München",
+            "B": "Hamburg und Essen",
+            "C": "Nürnberg und Stuttgart",
+            "D": "Worms und Speyer"
+        },
+        "correct_answer": {
+            "A": "Berlin und München"
+        }
+    },
+    "Frage №67": {
+        "question": "Was ist in Deutschland vor allem eine Aufgabe der Bundesländer?",
+        "image": null,
+        "options": {
+            "A": "Verteidigungspolitik",
+            "B": "Außenpolitik",
+            "C": "Wirtschaftspolitik",
+            "D": "Schulpolitik"
+        },
+        "correct_answer": {
+            "D": "Schulpolitik"
+        }
+    },
+    "Frage №68": {
+        "question": "Warum kontrolliert der Staat in Deutschland das Schulwesen?",
+        "image": null,
+        "options": {
+            "A": "weil es in Deutschland nur staatliche Schulen gibt",
+            "B": "weil alle Schüler und Schülerinnen einen Schulabschluss haben müssen",
+            "C": "weil es in den Bundesländern verschiedene Schulen gibt",
+            "D": "weil es nach dem Grundgesetz seine Aufgabe ist"
+        },
+        "correct_answer": {
+            "D": "weil es nach dem Grundgesetz seine Aufgabe ist"
+        }
+    },
+    "Frage №69": {
+        "question": "Die Bundesrepublik Deutschland hat einen dreistufigen Verwaltungsaufbau. Wie heißt die unterste politische Stufe?",
+        "image": null,
+        "options": {
+            "A": "Stadträte",
+            "B": "Landräte",
+            "C": "Gemeinden",
+            "D": "Bezirksämter"
+        },
+        "correct_answer": {
+            "C": "Gemeinden"
+        }
+    },
+    "Frage №70": {
+        "question": "Der deutsche Bundespräsident Gustav Heinemann gibt Helmut Schmidt 1974 die Ernennungsurkunde zum deutschen Bundeskanzler. Was gehört zu den Aufgaben des deutschen Bundespräsidenten / der deutschen Bundespräsidentin?",
+        "image": "https://www.lebenindeutschland.eu/img/questions/070.png",
+        "options": {
+            "A": "Er / Sie führt die Regierungsgeschäfte.",
+            "B": "Er / Sie kontrolliert die Regierungspartei.",
+            "C": "Er / Sie wählt die Minister / Ministerinnen aus.",
+            "D": "Er / Sie schlägt den Kanzler / die Kanzlerin zur Wahl vor."
+        },
+        "correct_answer": {
+            "D": "Er / Sie schlägt den Kanzler / die Kanzlerin zur Wahl vor."
+        }
+    },
+    "Frage №71": {
+        "question": "Wo hält sich der deutsche Bundeskanzler / die deutsche Bundeskanzlerin am häufigsten auf? Am häufigsten ist er / sie …",
+        "image": null,
+        "options": {
+            "A": "in Bonn, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",
+            "B": "in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",
+            "C": "auf Schloss Meseberg, dem Gästehaus der Bundesregierung, um Staatsgäste zu empfangen.",
+            "D": "auf Schloss Bellevue, dem Amtssitz des Bundespräsidenten / der Bundespräsidentin, um Staatsgäste zu empfangen."
+        },
+        "correct_answer": {
+            "B": "in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden."
+        }
+    },
+    "Frage №72": {
+        "question": "Wie heißt der jetzige Bundeskanzler / die jetzige Bundeskanzlerin von Deutschland?",
+        "image": null,
+        "options": {
+            "A": "Gerhard Schröder",
+            "B": "Angela Merkel",
+            "C": "Franziska Giffey",
+            "D": "Olaf Scholz"
+        },
+        "correct_answer": {
+            "D": "Olaf Scholz"
+        }
+    },
+    "Frage №73": {
+        "question": "Die beiden größten Fraktionen im Deutschen Bundestag heißen zurzeit …",
+        "image": null,
+        "options": {
+            "A": "CDU/CSU und SPD.",
+            "B": "Die Linke und Bündnis 90/Die Grünen.",
+            "C": "FDP und SPD.",
+            "D": "Die Linke und FDP."
+        },
+        "correct_answer": {
+            "A": "CDU/CSU und SPD."
+        }
+    },
+    "Frage №74": {
+        "question": "Wie heißt das Parlament für ganz Deutschland?",
+        "image": null,
+        "options": {
+            "A": "Bundesversammlung",
+            "B": "Volkskammer",
+            "C": "Bundestag",
+            "D": "Bundesgerichtshof"
+        },
+        "correct_answer": {
+            "C": "Bundestag"
+        }
+    },
+    "Frage №75": {
+        "question": "Wie heißt Deutschlands heutiges Staatsoberhaupt?",
+        "image": null,
+        "options": {
+            "A": "Frank-Walter Steinmeier",
+            "B": "Bärbel Bas",
+            "C": "Bodo Ramelow",
+            "D": "Joachim Gauck"
+        },
+        "correct_answer": {
+            "A": "Frank-Walter Steinmeier"
+        }
+    },
+    "Frage №76": {
+        "question": "Was bedeutet die Abkürzung CDU in Deutschland?",
+        "image": null,
+        "options": {
+            "A": "Christliche Deutsche Union",
+            "B": "Club Deutscher Unternehmer",
+            "C": "Christlicher Deutscher Umweltschutz",
+            "D": "Christlich Demokratische Union"
+        },
+        "correct_answer": {
+            "D": "Christlich Demokratische Union"
+        }
+    },
+    "Frage №77": {
+        "question": "Was ist die Bundeswehr?",
+        "image": null,
+        "options": {
+            "A": "die deutsche Polizei",
+            "B": "ein deutscher Hafen",
+            "C": "eine deutsche Bürgerinitiative",
+            "D": "die deutsche Armee"
+        },
+        "correct_answer": {
+            "D": "die deutsche Armee"
+        }
+    },
+    "Frage №78": {
+        "question": "Was bedeutet die Abkürzung SPD?",
+        "image": null,
+        "options": {
+            "A": "Sozialistische Partei Deutschlands",
+            "B": "Sozialpolitische Partei Deutschlands",
+            "C": "Sozialdemokratische Partei Deutschlands",
+            "D": "Sozialgerechte Partei Deutschlands"
+        },
+        "correct_answer": {
+            "C": "Sozialdemokratische Partei Deutschlands"
+        }
+    },
+    "Frage №79": {
+        "question": "Was bedeutet die Abkürzung FDP in Deutschland?",
+        "image": null,
+        "options": {
+            "A": "Friedliche Demonstrative Partei",
+            "B": "Freie Deutschland Partei",
+            "C": "Führende Demokratische Partei",
+            "D": "Freie Demokratische Partei"
+        },
+        "correct_answer": {
+            "D": "Freie Demokratische Partei"
+        }
+    },
+    "Frage №80": {
+        "question": "Welches Gericht in Deutschland ist zuständig für die Auslegung des Grundgesetzes?",
+        "image": null,
+        "options": {
+            "A": "Oberlandesgericht",
+            "B": "Amtsgericht",
+            "C": "Bundesverfassungsgericht",
+            "D": "Verwaltungsgericht"
+        },
+        "correct_answer": {
+            "C": "Bundesverfassungsgericht"
+        }
+    },
+    "Frage №81": {
+        "question": "Wer wählt den Bundeskanzler / die Bundeskanzlerin in Deutschland?",
+        "image": null,
+        "options": {
+            "A": "der Bundesrat",
+            "B": "die Bundesversammlung",
+            "C": "das Volk",
+            "D": "der Bundestag"
+        },
+        "correct_answer": {
+            "D": "der Bundestag"
+        }
+    },
+    "Frage №82": {
+        "question": "Wer leitet das deutsche Bundeskabinett?",
+        "image": null,
+        "options": {
+            "A": "der Bundestagspräsident / die Bundestagspräsidentin",
+            "B": "der Bundespräsident / die Bundespräsidentin",
+            "C": "der Bundeskanzler / die Bundeskanzlerin",
+            "D": "der Bundesratspräsident / die Bundesratspräsidentin"
+        },
+        "correct_answer": {
+            "C": "der Bundeskanzler / die Bundeskanzlerin"
+        }
+    },
+    "Frage №83": {
+        "question": "Wer wählt den deutschen Bundeskanzler / die deutsche Bundeskanzlerin?",
+        "image": null,
+        "options": {
+            "A": "das Volk",
+            "B": "die Bundesversammlung",
+            "C": "der Bundestag",
+            "D": "die Bundesregierung"
+        },
+        "correct_answer": {
+            "C": "der Bundestag"
+        }
+    },
+    "Frage №84": {
+        "question": "Welche Hauptaufgabe hat der deutsche Bundespräsident / die deutsche Bundespräsidentin? Er / Sie …",
+        "image": null,
+        "options": {
+            "A": "regiert das Land.",
+            "B": "entwirft die Gesetze.",
+            "C": "repräsentiert das Land.",
+            "D": "überwacht die Einhaltung der Gesetze."
+        },
+        "correct_answer": {
+            "C": "repräsentiert das Land."
+        }
+    },
+    "Frage №85": {
+        "question": "Wer bildet den deutschen Bundesrat?",
+        "image": null,
+        "options": {
+            "A": "die Abgeordneten des Bundestages",
+            "B": "die Minister und Ministerinnen der Bundesregierung",
+            "C": "die Regierungsvertreter der Bundesländer",
+            "D": "die Parteimitglieder"
+        },
+        "correct_answer": {
+            "C": "die Regierungsvertreter der Bundesländer"
+        }
+    },
+    "Frage №86": {
+        "question": "Wer wählt in Deutschland den Bundespräsidenten / die Bundespräsidentin?",
+        "image": null,
+        "options": {
+            "A": "die Bundesversammlung",
+            "B": "der Bundesrat",
+            "C": "das Bundesparlament",
+            "D": "das Bundesverfassungsgericht"
+        },
+        "correct_answer": {
+            "A": "die Bundesversammlung"
+        }
+    },
+    "Frage №87": {
+        "question": "Wer ist das Staatsoberhaupt der Bundesrepublik Deutschland?",
+        "image": null,
+        "options": {
+            "A": "der Bundeskanzler / die Bundeskanzlerin",
+            "B": "der Bundespräsident / die Bundespräsidentin",
+            "C": "der Bundesratspräsident / die Bundesratspräsidentin",
+            "D": "der Bundestagspräsident / die Bundestagspräsidentin"
+        },
+        "correct_answer": {
+            "B": "der Bundespräsident / die Bundespräsidentin"
+        }
+    },
+    "Frage №88": {
+        "question": "Die parlamentarische Opposition im Deutschen Bundestag …",
+        "image": null,
+        "options": {
+            "A": "kontrolliert die Regierung.",
+            "B": "entscheidet, wer Bundesminister / Bundesministerin wird.",
+            "C": "bestimmt, wer im Bundesrat sitzt.",
+            "D": "schlägt die Regierungschefs / Regierungschefinnen der Länder vor."
+        },
+        "correct_answer": {
+            "A": "kontrolliert die Regierung."
+        }
+    },
+    "Frage №89": {
+        "question": "Wie nennt man in Deutschland die Vereinigung von Abgeordneten einer Partei im Parlament?",
+        "image": null,
+        "options": {
+            "A": "Verband",
+            "B": "Ältestenrat",
+            "C": "Fraktion",
+            "D": "Opposition"
+        },
+        "correct_answer": {
+            "C": "Fraktion"
+        }
+    },
+    "Frage №90": {
+        "question": "Die deutschen Bundesländer wirken an der Gesetzgebung des Bundes mit durch …",
+        "image": null,
+        "options": {
+            "A": "den Bundesrat.",
+            "B": "die Bundesversammlung.",
+            "C": "den Bundestag.",
+            "D": "die Bundesregierung."
+        },
+        "correct_answer": {
+            "A": "den Bundesrat."
+        }
+    }
+}
